@@ -1,0 +1,210 @@
+@font-face {
+  font-family: 'cgk';
+  src:  url('fonts/cgk2788.eot?c9c9u2');
+  src:  url('fonts/cgk2788.eot?c9c9u2#iefix') format('embedded-opentype'),
+    url('fonts/cgk2788.ttf?c9c9u2') format('truetype'),
+    url('fonts/cgk2788.woff?c9c9u2') format('woff'),
+    url('fonts/cgk2788.svg?c9c9u2#cgk') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="cgk-"], [class*=" cgk-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'cgk' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.cgk-law-1-1:before {
+  content: "\e900";
+}
+.cgk-qoute-1-1:before {
+  content: "\e901";
+}
+.cgk-policy:before {
+  content: "\e903";
+}
+.cgk-protect:before {
+  content: "\e904";
+}
+.cgk-judge:before {
+  content: "\e905";
+}
+.cgk-pistol:before {
+  content: "\e906";
+}
+.cgk-justice:before {
+  content: "\e907";
+}
+.cgk-house-with-scales:before {
+  content: "\e908";
+}
+.cgk-service-1-3:before {
+  content: "\e909";
+}
+.cgk-service-1-2:before {
+  content: "\e90a";
+}
+.cgk-service-1-1:before {
+  content: "\e90b";
+}
+.cgk-act:before {
+  content: "\e902";
+}
+.cgk-agreement:before {
+  content: "\e90c";
+}
+.cgk-bars:before {
+  content: "\e90d";
+}
+.cgk-baton:before {
+  content: "\e90e";
+}
+.cgk-books:before {
+  content: "\e90f";
+}
+.cgk-bullet:before {
+  content: "\e910";
+}
+.cgk-courthouse:before {
+  content: "\e911";
+}
+.cgk-criminal:before {
+  content: "\e912";
+}
+.cgk-detective:before {
+  content: "\e913";
+}
+.cgk-evidence:before {
+  content: "\e914";
+}
+.cgk-fingerprint:before {
+  content: "\e915";
+}
+.cgk-folder:before {
+  content: "\e916";
+}
+.cgk-footprint:before {
+  content: "\e917";
+}
+.cgk-gavel:before {
+  content: "\e918";
+}
+.cgk-glasses:before {
+  content: "\e919";
+}
+.cgk-handcuffs:before {
+  content: "\e91a";
+}
+.cgk-hourglass:before {
+  content: "\e91b";
+}
+.cgk-judge1:before {
+  content: "\e91c";
+}
+.cgk-judge-1:before {
+  content: "\e91d";
+}
+.cgk-judge-2:before {
+  content: "\e91e";
+}
+.cgk-jury:before {
+  content: "\e91f";
+}
+.cgk-law-book:before {
+  content: "\e920";
+}
+.cgk-lawyer:before {
+  content: "\e921";
+}
+.cgk-lawyer-1:before {
+  content: "\e922";
+}
+.cgk-letter:before {
+  content: "\e923";
+}
+.cgk-libra:before {
+  content: "\e924";
+}
+.cgk-money-bag:before {
+  content: "\e925";
+}
+.cgk-newspaper:before {
+  content: "\e926";
+}
+.cgk-oath:before {
+  content: "\e927";
+}
+.cgk-padlock:before {
+  content: "\e928";
+}
+.cgk-police:before {
+  content: "\e929";
+}
+.cgk-police-badge:before {
+  content: "\e92a";
+}
+.cgk-police-car:before {
+  content: "\e92b";
+}
+.cgk-policeman:before {
+  content: "\e92c";
+}
+.cgk-portfolio:before {
+  content: "\e92d";
+}
+.cgk-prison:before {
+  content: "\e92e";
+}
+.cgk-prison-1:before {
+  content: "\e92f";
+}
+.cgk-prison-bus:before {
+  content: "\e930";
+}
+.cgk-prisoner:before {
+  content: "\e931";
+}
+.cgk-safebox:before {
+  content: "\e932";
+}
+.cgk-scroll:before {
+  content: "\e933";
+}
+.cgk-search:before {
+  content: "\e934";
+}
+.cgk-sheriff:before {
+  content: "\e935";
+}
+.cgk-siren:before {
+  content: "\e936";
+}
+.cgk-statement:before {
+  content: "\e937";
+}
+.cgk-student:before {
+  content: "\e938";
+}
+.cgk-traffic-cone:before {
+  content: "\e939";
+}
+.cgk-typewriter:before {
+  content: "\e93a";
+}
+.cgk-witness:before {
+  content: "\e93b";
+}
+.cgk-writing-tool:before {
+  content: "\e93c";
+}
