@@ -2214,7 +2214,7 @@ a:focus {
   color: #e23e4e;
 }
 .blog-one__single:hover .blog-one__image-inner > img {
-  opacity: 0.1;
+  opacity: 1;
   -webkit-transform: scale(1.05);
           transform: scale(1.05);
 }

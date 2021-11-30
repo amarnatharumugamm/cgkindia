@@ -104,7 +104,7 @@ require_once('./mobile-nav.php')
                     </div><!-- /.team-one__image -->
                     <div class="team-one__content" style="padding-bottom:0px;">
                         <h3 class="team-one__name">C.Gopalakrishnan</h3><!-- /.team-one__name -->
-                        <p class="team-one__designation">FOUNDER & CEO</p><!-- /.team-one__designation -->
+                        <p class="team-one__designation">FOUNDER\CHAIRMAN</p><!-- /.team-one__designation -->
                         <!-- Button trigger modal -->
                         
 <button type="button" class="btn btn-primary my-3" data-bs-toggle="modal" data-bs-target="#Gopalakrishnan">
@@ -149,7 +149,7 @@ require_once('./mobile-nav.php')
             </div>
             <div class="row">
               <div class="col-md-12 ms-auto">
-                  <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Total Experience </span> </b></h4>
+                  <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold">  Experience </span> </b></h4>
                   <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  25 years</span> </b></span></p>
               </div>
             </div>
@@ -157,13 +157,13 @@ require_once('./mobile-nav.php')
             <div class="row">
               <div class="col-md-12 ms-auto">
                   <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold"> Office </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK LAW FIRM-Erode </span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK INDIA LAW FIRM </span> </b></span></p>
                 </div>
             </div>
             <div class="row">
               <div class="col-md-12 ms-auto">
               <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Designation  </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CEO</span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;"> FOUNDER\CHAIRMAN</span> </b></span></p>
               </div>
             </div>
            
@@ -180,6 +180,8 @@ require_once('./mobile-nav.php')
                     </div><!-- /.team-one__content -->
                 </div><!-- /.team-one__single -->
             </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+
+
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="team-one__single">
                     <div class="team-one__image">
@@ -189,8 +191,8 @@ require_once('./mobile-nav.php')
                         <h3 class="team-one__name">G. Rubeshkumar</h3><!-- /.team-one__name -->
                         <p class="team-one__designation">CHIEF ADMINISTRATIVE OFFICER</p><!-- /.team-one__designation -->
                         <button type="button" class="btn btn-primary my-3" data-bs-toggle="modal" data-bs-target="#Rubeshkumar">
-  Profile
-</button>
+                          Profile
+                        </button>
 
 <!-- Modal -->
 <div class="modal fade" id="Rubeshkumar" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -217,24 +219,26 @@ require_once('./mobile-nav.php')
               <div class="col-md-12 ms-auto">
                   <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> 
                       <span style="color:#170055;font-weight:bold">Educational Qualifications </span> </b></h4>
-                      <p  class="text-center"><span style="font-weight:bold;font-size: 20px; ">  B.com-studied in <span style="color:#ff0066;"> Loyola Chennai.,</span> Msc-Finance studied in <span style="color:#ff0066;"> Skema Business school located in  Paris, France.,</span>LLB - Currently Pursuing.,   </span> </b></span></p>
+                      <p  class="text-center"><span style="font-weight:bold;font-size: 20px; ">  B.com - Corporate Secretaryship <br>studied at <span style="color:#453ebd;"> Loyola Chennai.,<br></span> 
+                      Masters in Advance <br>Business Management (M.Sc ABM)<br>
+                      Msc-Finance in Auditing Management Accounting & Information systems (M.Sc AMIS), studied at <span style="color:#453ebd;"> Skema Business school located at  Paris, France.,</span><br> LLB - Currently Pursuing.,   </span> </b></span></p>
               </div>
               <div class="col-md-12 ms-auto">
                   <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Additional Qualifications </span> </b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">   IFRS -International Financial Reporting Standards ,IsaG ,Isa Compta , SAIBA,Tally ERP1,  Other known and learning works: All Court Cases,Registration works and Document Drafting</span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">   IFRS -International Financial Reporting Standards ,IsaG ,Isa Compta , SAIBA,Tally ERP1,Registration works and Document Drafting,MS Powerpoint,MS Word,Ms Excel</span> </b></span></p>
               </div>
             </div>
             <div class="row">
               <div class="col-md-12 ms-auto">
               <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold">Expert in </span> </b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;"> Finance and Accounting,Marketing,  Legal Scrutiny Report. </span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">Deed Registration , Finance and Accounting, Marketing, Legal Scrutiny Report. </span> </b></span></p>
                   
               </div>
             </div>
             <div class="row">
               <div class="col-md-12 ms-auto">
-                  <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Total Experience </span> </b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  3 years -In that 2 years worked under a  <span style="color:#ff0066;">French Chartered Accountant in Paris.</span> 
+                  <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold">Work Experience </span> </b></h4>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  2 years worked under a  <span style="color:#453ebd;">French Chartered Accountant at Paris france. </span> 
 Working here since - 2020 September 1. </span> </b></span></p>
               </div>
             </div>
@@ -242,13 +246,13 @@ Working here since - 2020 September 1. </span> </b></span></p>
             <div class="row">
               <div class="col-md-12 ms-auto">
                   <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold"> Office </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK LAW FIRM - Erode </span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK INDIA LAW FIRM </span> </b></span></p>
                 </div>
             </div>
             <div class="row">
               <div class="col-md-12 ms-auto">
               <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Designation  </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;"> Chief Administrative officer.</span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">(CAO) Chief Administrative officer.</span> </b></span></p>
               </div>
             </div>
            
@@ -274,7 +278,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
                     </div><!-- /.team-one__image -->
                     <div class="team-one__content" style="padding-bottom:0px;">
                         <h3 class="team-one__name">E. Ramani</h3><!-- /.team-one__name -->
-                        <p class="team-one__designation">Primary Junior</p><!-- /.team-one__designation -->
+                        <p class="team-one__designation">Head Junior Advocate</p><!-- /.team-one__designation -->
                         <button type="button" class="btn btn-primary my-3" data-bs-toggle="modal" data-bs-target="#Ramani">
   Profile
 </button>
@@ -284,7 +288,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">Ramani</h5>
+          <h5 class="modal-title" id="exampleModalLabel">E. Ramani</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
@@ -313,7 +317,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
             </div>
             <div class="row">
               <div class="col-md-12 ms-auto">
-              <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold">Experts in </span> </b></h4>
+              <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold">Expert in </span> </b></h4>
                   <p class="text-center"><span style="font-weight:bold;font-size: 20px;"> All Civil Cases and Criminal Cases such as MCOP, EP, Family Cases and Land Dispute</span> </b></span></p>
                   
               </div>
@@ -333,7 +337,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
             <div class="row">
               <div class="col-md-12 ms-auto">
                   <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold"> Office </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK LAW FIRM - Erode </span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK INDIA LAW FIRM - Erode </span> </b></span></p>
                 </div>
             </div>
             <div class="row">
@@ -424,7 +428,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
             <div class="row">
               <div class="col-md-12 ms-auto">
                   <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold"> Office </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK LAW FIRM - Erode </span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK INDIA LAW FIRM - Erode </span> </b></span></p>
                 </div>
             </div>
             <div class="row">
@@ -514,7 +518,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
             <div class="row">
               <div class="col-md-12 ms-auto">
                   <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold"> Office </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK LAW FIRM - Erode </span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK INDIA LAW FIRM - Erode </span> </b></span></p>
                 </div>
             </div>
             <div class="row">
@@ -537,96 +541,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
                     </div><!-- /.team-one__content -->
                 </div><!-- /.team-one__single -->
             </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="team-one__single">
-                    <div class="team-one__image">
-                        <img src="https://ik.imagekit.io/efvdt4rto0b/team/team-4_PrPd9sTFRN.png?updatedAt=1632116217206" alt="Awesome Image" />
-                    </div><!-- /.team-one__image -->
-                    <div class="team-one__content" style="padding-bottom:0px;">
-                        <h3 class="team-one__name"> T.Kowsalya</h3><!-- /.team-one__name -->
-                        <p class="team-one__designation">Typist</p><!-- /.team-one__designation -->
-                        <p class="team-one__designation">4 years Experience </p><!-- /.team-one__designation -->
-                        <button type="button" class="btn btn-primary my-3" data-bs-toggle="modal" data-bs-target="#Kowsalya">
-  Profile
-</button>
 
-<!-- Modal -->
-<div class="modal fade" id="Kowsalya" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">Kowsalya</h5>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <div class="container-fluid">
-            <div class="row">
-              <div class="col-md-12 ms-auto">
-                  <img src="https://ik.imagekit.io/efvdt4rto0b/team/team-4_PrPd9sTFRN.png?updatedAt=1632116217206" alt="demo">
-              </div>
-            </div>
-              <div class="row">
-              <div class="col-md-12 ms-auto">
-                  <h4 class="d-flex justify-content-center mt-3 text-primary "> <b> T.Kowsalya </b></h4>
-              </div>
-              
-            </div>
-            <div class="row">
-              <div class="col-md-12 ms-auto">
-                  <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> 
-                      <span style="color:#170055;font-weight:bold">Educational Qualification </span> </b></h4>
-                      <p  class="text-center"><span style="font-weight:bold;font-size: 20px; ">  BCA </span> </b></span></p>
-              </div>
-              <div class="col-md-12 ms-auto">
-                  <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Additional Qualifications </span> </b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  Tamil & English (Both higher) Typing</span> </b></span></p>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-md-12 ms-auto">
-              <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold">Expert in </span> </b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;"> example (Legal scrutiny report, Document drafting, Deed Registration, Excel, Word)</span> </b></span></p>
-                  
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-md-12 ms-auto">
-                  <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Total Experience </span> </b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  4years</span> </b></span></p>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-md-12 ms-auto">
-                  <h4 class="d-flex justify-content-center my-2 text-secondary" > <span style="color:#170055;font-weight:bold"> <b> Joining date in our office</span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  August 5, 2020</span> </b></span></p>
-                </div>
-            </div>
-            <div class="row">
-              <div class="col-md-12 ms-auto">
-                  <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold"> Office </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK LAW FIRM- Erode  </span> </b></span></p>
-                </div>
-            </div>
-            <div class="row">
-              <div class="col-md-12 ms-auto">
-              <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Designation  </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  Typist</span> </b></span></p>
-              </div>
-            </div>
-           
-
-          </div>
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        
-        </div>
-      </div>
-    </div>
-  </div>
-                    </div><!-- /.team-one__content -->
-                </div><!-- /.team-one__single -->
-            </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="team-one__single">
                     <div class="team-one__image">
@@ -677,7 +592,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
             <div class="row">
               <div class="col-md-12 ms-auto">
               <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold">Expert in </span> </b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  Legal scrutiny report, Document drafting, Deed Registration, Civil court work.</span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  Legal scrutiny report, Document drafting, Deed Registration</span> </b></span></p>
                   
               </div>
             </div>
@@ -696,7 +611,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
             <div class="row">
               <div class="col-md-12 ms-auto">
                   <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold"> Office </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK LAW FIRM - Erode </span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK INDIA LAW FIRM - Erode </span> </b></span></p>
                 </div>
             </div>
             <div class="row">
@@ -719,6 +634,103 @@ Working here since - 2020 September 1. </span> </b></span></p>
                     </div><!-- /.team-one__content -->
                 </div><!-- /.team-one__single -->
             </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+
+
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="team-one__single">
+                    <div class="team-one__image">
+                        <img src="https://ik.imagekit.io/efvdt4rto0b/team/team-4_PrPd9sTFRN.png?updatedAt=1632116217206" alt="Awesome Image" />
+                    </div><!-- /.team-one__image -->
+                    <div class="team-one__content" style="padding-bottom:0px;">
+                        <h3 class="team-one__name"> T.Kowsalya</h3><!-- /.team-one__name -->
+                        <p class="team-one__designation">Typist</p><!-- /.team-one__designation -->
+                        <p class="team-one__designation">4 years Experience </p><!-- /.team-one__designation -->
+                        <button type="button" class="btn btn-primary my-3" data-bs-toggle="modal" data-bs-target="#Kowsalya">
+  Profile
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="Kowsalya" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Kowsalya</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+                  <img src="https://ik.imagekit.io/efvdt4rto0b/team/team-4_PrPd9sTFRN.png?updatedAt=1632116217206" alt="demo">
+              </div>
+            </div>
+              <div class="row">
+              <div class="col-md-12 ms-auto">
+                  <h4 class="d-flex justify-content-center mt-3 text-primary "> <b> T.Kowsalya </b></h4>
+              </div>
+              
+            </div>
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+                  <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> 
+                      <span style="color:#170055;font-weight:bold">Educational Qualification </span> </b></h4>
+                      <p  class="text-center"><span style="font-weight:bold;font-size: 20px; ">  BCA </span> </b></span></p>
+              </div>
+              <div class="col-md-12 ms-auto">
+                  <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Additional Qualifications </span> </b></h4>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  Tamil & English (Both higher) Typing</span> </b></span></p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+              <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold">Expert in </span> </b></h4>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  Legal scrutiny report, Document drafting, Deed Registration, Excel, Word</span> </b></span></p>
+                  
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+                  <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Total Experience </span> </b></h4>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  4years</span> </b></span></p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+                  <h4 class="d-flex justify-content-center my-2 text-secondary" > <span style="color:#170055;font-weight:bold"> <b> Joining date in our office</span></b></h4>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  August 5, 2020</span> </b></span></p>
+                </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+                  <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold"> Office </span></b></h4>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK INDIA LAW FIRM - Erode  </span> </b></span></p>
+                </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+              <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Designation  </span></b></h4>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  Typist</span> </b></span></p>
+              </div>
+            </div>
+           
+
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        
+        </div>
+      </div>
+    </div>
+  </div>
+                    </div><!-- /.team-one__content -->
+                </div><!-- /.team-one__single -->
+            </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+
+
+     
+
+            
             <div class="col-lg-3 col-md-6 col-sm-12">
                 <div class="team-one__single">
                     <div class="team-one__image">
@@ -761,13 +773,13 @@ Working here since - 2020 September 1. </span> </b></span></p>
               </div>
               <div class="col-md-12 ms-auto">
                   <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Additional Qualifications </span> </b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  Computer Lnaguage: C,C++, JAVA, Oracle<br>Database : MS-access<br>Operating System : Windows 7/XP, Windows 8, Windows 10<br>Web technology : HTML<br>Typing Skill : Tamil, English<br>Graphic Design : Corel Draw, Photoshop<br></span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;"> C,C++, JAVA, Oracle, MS-access,<br> HTML , Corel Draw, Photoshop<br>Typing Skill : Tamil, English</span> </b></span></p>
               </div>
             </div>
             <div class="row">
               <div class="col-md-12 ms-auto">
               <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold">Expert in </span> </b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  Legal Scrutiny, Document Drafting, Deed Registration.</span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  Legal Scrutiny, Document Drafting, Deed Registration. Graphic Design </span> </b></span></p>
                   
               </div>
             </div>
@@ -786,7 +798,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
             <div class="row">
               <div class="col-md-12 ms-auto">
                   <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold"> Office </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK LAW FIRM - ERODE </span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK INDIA LAW FIRM - ERODE </span> </b></span></p>
                 </div>
             </div>
             <div class="row">
@@ -820,8 +832,74 @@ Working here since - 2020 September 1. </span> </b></span></p>
                         <h3 class="team-one__name">Suresh</h3><!-- /.team-one__name -->
                         <p class="team-one__designation">Register Department Incharge </p><!-- /.team-one__designation -->
                         <p class="team-one__designation">15 years Experience </p><!-- /.team-one__designation -->
-                        
-                       
+                             
+                        <button type="button" class="btn btn-primary my-3" data-bs-toggle="modal" data-bs-target="#suresh">
+  Profile
+</button>
+              
+<!-- Modal -->
+<div class="modal fade" id="suresh" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">  Suresh</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+              <img src="https://ik.imagekit.io/efvdt4rto0b/team/suresh2_7yZJX1_dfm.png?updatedAt=1632116211429" alt="Awesome Image" />
+
+            </div>
+            </div>
+              <div class="row">
+              <div class="col-md-12 ms-auto">
+                  <h4 class="d-flex justify-content-center mt-3 text-primary "> <b>   Suresh </b></h4>
+              </div>
+              
+            </div>
+            
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+              <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold">Expert in </span> </b></h4>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  Deed Registrations</span> </b></span></p>
+                  
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+                  <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Total Experience </span> </b></h4>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  15 years</span> </b></span></p>
+              </div>
+            </div>
+           
+              
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+                  <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold"> Office </span></b></h4>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK INDIA LAW FIRM - Erode </span> </b></span></p>
+                </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+              <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Designation  </span></b></h4>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">    Assistant Manager - Registration Department</span> </b></span></p>
+              </div>
+            </div>
+           
+
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        
+        </div>
+      </div>
+    </div>
+  </div>                       
+
+
                     </div><!-- /.team-one__content -->
                 </div><!-- /.team-one__single -->
             </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
@@ -852,7 +930,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
           <div class="container-fluid">
             <div class="row">
               <div class="col-md-12 ms-auto">
-                  <img src="assets/images/team/team-10.png" alt="demo" height="300" width:"400">
+              <img src="https://ik.imagekit.io/efvdt4rto0b/team/team-10_Trzd3u6qk.jpeg?updatedAt=1632116213664" alt="Awesome Image"  width="200" height="300" />
               </div>
             </div>
               <div class="row">
@@ -875,18 +953,18 @@ Working here since - 2020 September 1. </span> </b></span></p>
                   <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  3 years</span> </b></span></p>
               </div>
             </div>
-           
+              
               
             <div class="row">
               <div class="col-md-12 ms-auto">
                   <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold"> Office </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK LAW FIRM - Erode </span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  CGK INDIA LAW FIRM - Erode </span> </b></span></p>
                 </div>
             </div>
             <div class="row">
               <div class="col-md-12 ms-auto">
               <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Designation  </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">    Assistant Manager of Registration Department</span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">    Assistant Manager - Registration Department</span> </b></span></p>
               </div>
             </div>
            
@@ -907,19 +985,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
 
            
 
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <div class="team-one__single">
-                    <div class="team-one__image ">
-                        <img src="https://ik.imagekit.io/efvdt4rto0b/team/theni_6YCKJRWP2v.jpg?updatedAt=1632116219978" alt="manikandan" width="200" height="300" />
-                    </div><!-- /.team-one__image -->
-                    <div class="team-one__content" style="padding-bottom:0px;">
-                        <h3 class="team-one__name">Manikandan</h3><!-- /.team-one__name -->
-                        <p class="team-one__designation">Theni Head</p><!-- /.team-one__designation -->
-                        <p class="team-one__designation">15 years Experience </p><!-- /.team-one__designation -->
-                       
-                    </div><!-- /.team-one__content -->
-                </div><!-- /.team-one__single -->
-            </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+         
       
 
 
@@ -930,7 +996,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
                     </div><!-- /.team-one__image -->
                     <div class="team-one__content" style="padding-bottom:0px;">
                         <h3 class="team-one__name"> Suresh</h3>
-                        <p class="team-one__designation">Nilgiri Head and Manager </p>
+                        <p class="team-one__designation">Nilgiris Head and Manager </p>
                         <p class="team-one__designation">10 years Experience </p>
                         
                         
@@ -979,13 +1045,13 @@ Working here since - 2020 September 1. </span> </b></span></p>
             <div class="row">
               <div class="col-md-12 ms-auto">
                   <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold"> Office </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">    Nilgiri  </span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">    Nilgiris  </span> </b></span></p>
                 </div>
             </div>
             <div class="row">
               <div class="col-md-12 ms-auto">
               <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Designation  </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">     Manager of Nilgiri Office</span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">     Manager of Nilgiris Office</span> </b></span></p>
               </div>
             </div>
            
@@ -1060,7 +1126,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
             <div class="row">
               <div class="col-md-12 ms-auto">
                   <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold"> Office </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">    Erode,Tirpur </span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">    Erode,Tiruppur </span> </b></span></p>
                 </div>
             </div>
             <div class="row">
@@ -1095,7 +1161,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
                     </div><!-- /.team-one__image -->
                     <div class="team-one__content" style="padding-bottom:0px;">
                         <h3 class="team-one__name">Dhamodaran</h3><!-- /.team-one__name -->
-                        <p class="team-one__designation">Tripur Head</p><!-- /.team-one__designation -->
+                        <p class="team-one__designation">Tiruppur Head</p><!-- /.team-one__designation -->
                         <p class="team-one__designation">30 years Experience</p>
                        
                        
@@ -1143,13 +1209,13 @@ Working here since - 2020 September 1. </span> </b></span></p>
             <div class="row">
               <div class="col-md-12 ms-auto">
                   <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold"> Office </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">    Tirpur </span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">    Tirppur </span> </b></span></p>
                 </div>
             </div>
             <div class="row">
               <div class="col-md-12 ms-auto">
               <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Designation  </span></b></h4>
-                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">     Tirpur Head</span> </b></span></p>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">     Tirppur Head</span> </b></span></p>
               </div>
             </div>
            
@@ -1300,7 +1366,6 @@ Working here since - 2020 September 1. </span> </b></span></p>
                     <div class="service-one__single wow fadeInUp" data-wow-duration="1500ms">
                         <i class="service-one__icon  cgk-service-1-1"></i>
                         <h3 class="service-one__title"><a href="contact.php">Find a lawyer</a></h3><!-- /.service-one__title -->
-                        <p class="service-one__text">Deserunt mollit animd laborum perspic</p><!-- /.service-one__text -->
                         <a href="contact.php" class="thm-btn service-one__btn">Get Appointment <i class="fa fa-long-arrow-alt-right"></i></a>
                     </div><!-- /.service-one__single -->
                 </div><!-- /.col-lg-4 -->
@@ -1308,7 +1373,6 @@ Working here since - 2020 September 1. </span> </b></span></p>
                     <div class="service-one__single wow fadeInUp" data-wow-duration="1500ms">
                         <i class="service-one__icon  cgk-service-1-2"></i>
                         <h3 class="service-one__title"><a href="contact.php">Work with Us</a></h3><!-- /.service-one__title -->
-                        <p class="service-one__text">Deserunt mollit animd laborum perspic</p><!-- /.service-one__text -->
                         <a href="careers.php" class="thm-btn service-one__btn">Join Us <i class="fa fa-long-arrow-alt-right"></i></a>
                     </div><!-- /.service-one__single -->
                 </div><!-- /.col-lg-4 -->
@@ -1316,7 +1380,6 @@ Working here since - 2020 September 1. </span> </b></span></p>
                     <div class="service-one__single wow fadeInUp" data-wow-duration="1500ms">
                         <i class="service-one__icon  cgk-service-1-3"></i>
                         <h3 class="service-one__title"><a href="contact.php">Internship</a></h3><!-- /.service-one__title -->
-                        <p class="service-one__text">Deserunt mollit animd laborum perspic</p><!-- /.service-one__text -->
                         <a href="careers.php" class="thm-btn service-one__btn">Get Involved <i class="fa fa-long-arrow-alt-right"></i></a>
                     </div><!-- /.service-one__single -->
                 </div><!-- /.col-lg-4 -->
@@ -1338,15 +1401,15 @@ Working here since - 2020 September 1. </span> </b></span></p>
                     
                     <div class="col-lg-3" style="background-color: white;">
                         <img src=" ./assets/images/favicon/location.svg" width="50px" alt="">
-                        <h3 style="font-weight:bold">Theni</h3>
+                        <h3 style="font-weight:bold">Theeni</h3>
                     </div>
                     <div class="col-lg-3" style="background-color: white;">
                         <img src=" ./assets/images/favicon/location.svg" width="50px" alt="">
-                        <h3 style="font-weight:bold">Nilgiri</h3>
+                        <h3 style="font-weight:bold">Nilgiris</h3>
                     </div>
                     <div class="col-lg-3" style="background-color: white;">
                         <img src=" ./assets/images/favicon/location.svg" width="50px" alt="">
-                        <h3 style="font-weight:bold">Tripur</h3>
+                        <h3 style="font-weight:bold">Tiruppur</h3>
                     </div>
                 </div>
             </div>
@@ -1357,8 +1420,9 @@ Working here since - 2020 September 1. </span> </b></span></p>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" ></script>
 <section class="cta-one my-1 cheight" >
     <div class="container text-center" id="cont">
-        <h3 class="cta-one__title">Need an Advice from Expert Lawyers? <br> Get an Appointment Today!</h3><!-- /.cta-one__title -->
-        <p class="cta-one__phone">
+    <h3 class="cta-one__title">Need a Legal Solutions<br> Get an Appointment From our CGK INDIA LAW FIRM </h3><!-- /.cta-one__title -->
+
+    <p class="cta-one__phone">
             <i class="fa fa-phone-alt"></i>
             Call us for a quick help!
             <a href="tel:04244270772">0424-4270772</a>

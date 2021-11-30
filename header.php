@@ -170,6 +170,24 @@
             margin-right:3%;
         } */
     }
+    .main-logo
+     {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: 2;
+  animation-direction: alternate;  
+}
+    @keyframes example {
+  from{
+  transform: rotate3d(0,1,0,1turn);  
+  }
+  to{
+  transform: rotate3d(0,1,0,2turn);
+}
+}
 </style>
 
 <body >
@@ -243,7 +261,7 @@
                     </div><!-- /.topbar-one__right -->
                 </div><!-- /.container -->
             </div><!-- /.topbar-one -->
-                            <a class="navbar-brand" href="index.php">
+                            <a class="navbar-brand" >
                                 <img src="./assets/logo.png" class="main-logo" alt="CGK" style="width:100px;" />
                             </a>
                             <span class="span_text">

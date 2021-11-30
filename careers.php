@@ -82,7 +82,7 @@ require_once('./mobile-nav.php')
                                         </ul>
                                         </div>
                                     </div>
-                                   <h4 style="color:black;">2. Office Typist </h4>
+                                    <h4 style="color:black;">2. Office Typist </h4>
                                     <div class="accrodion-content">
                                         <div class="inner">
                                             <ul>
@@ -93,6 +93,22 @@ require_once('./mobile-nav.php')
                                             	<li style="list-style-type:none;"> Those are having the first skill the salary will be from ₹6000 to ₹10000</li>
                                             	<li style="list-style-type:none;"> Those who are having both skills the salary is negotiable based on the interview</li>
                                             </ul>
+                                        </div>
+                                    </div>
+
+                                   <h4 style="color:black;">3. Office Coordinator </h4>
+                                    <div class="accrodion-content">
+                                        <div class="inner">
+                                            <ul>
+                                            <h5 style="color:black;font-weight:bold;list-style-type:none;">Required skills:</h5>
+                                                <li style="list-style-type:none;"><span style="font-weight:bold;color:black;">1)</span> English Drafting.</li> 
+												<li style="list-style-type:none;"> <span style="font-weight:bold;color:black;">2)</span> Both English and Tamil typing</li>
+												<li style="list-style-type:none;"> <span style="font-weight:bold;color:black;">3)</span> Must have a bike.</li><br>
+                                            	<h5 style="color:black;font-weight:bold";>Salary</h5>
+                                            	<li style="list-style-type:none;"> Initial Salary(₹8000 to ₹15000) Yearly Increment for Permenent Staff.</li><br>
+                                                <h5 style="color:black;font-weight:bold";>Additional Skills</h5>
+                                            	<li style="list-style-type:none;">Car Driving and Hindi Speaking Skill</li>
+                                               </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -207,8 +223,8 @@ require_once('./mobile-nav.php')
 </section><!-- /.contact-one -->
 <section class="cta-one my-1 cheight" >
     <div class="container text-center" id="cont">
-        <h3 class="cta-one__title">Need an Advice from Expert Lawyers? <br> Get an Appointment Today!</h3><!-- /.cta-one__title -->
-        <p class="cta-one__phone">
+    <h3 class="cta-one__title">Need a Legal Solutions<br> Get an Appointment From our CGK INDIA LAW FIRM </h3><!-- /.cta-one__title -->
+    <p class="cta-one__phone">
             <i class="fa fa-phone-alt"></i>
             Call us for a quick help!
             <a href="tel:04244270772">0424-4270772</a>

@@ -4,7 +4,7 @@
             <div class="col-xl-4 col-lg-6">
                 <div class="footer-widget">
                     <a href="index-2.php" class="footer-widget__logo"><img src="./assets/logo.png" width="100px" alt="Awesome Image" /></a>
-                    <p class="footer-widget__text">Those who want to avoid police station and Court meet us.We Have 44 emphalments in Banking and Companies.25 years of Experience.</p><!-- /.footer-widget__text -->
+                    <p class="footer-widget__text">Those who want to avoid police station and Court meet us.We Have 43 emphalments in Banking and Companies.25 years of Experience.</p><!-- /.footer-widget__text -->
                 </div><!-- /.footer-widget -->
             </div><!-- /.col-lg-4 -->
             <div class="col-xl-2 col-lg-6">
@@ -48,7 +48,7 @@
 
 <div class="site-footer__bottom">
     <div class="container">
-        <p class="site-footer__copy">© 2021 CGK Law Firm. All Rights Reserved.</p><!-- /.site-footer__copy -->
+        <p class="site-footer__copy">© 2021 CGK INDIA LAW FIRM. All Rights Reserved.</p><!-- /.site-footer__copy -->
         <div class="site-footer__social">
             <a href="#" class="fab fa-twitter"></a>
             <a href="#" class="fab fa-facebook"></a>

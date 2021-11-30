@@ -108,6 +108,7 @@ require_once('./header.php');
             position: absolute;
             top: -15px;
             font-size: 8px;
+            left:16px;
         }
 
         #twenty {
@@ -190,8 +191,6 @@ require_once('./header.php');
         }
     }
 </style>
-
-
 <div id="carouselExampleControls" class="carousel slide slides" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
@@ -200,9 +199,8 @@ require_once('./header.php');
                 <h5 id="twenty" class="wow animate__fadeInDown">CGK INDIA LAW FIRM <br> <span id="exper"> ESTABLISHED Since 1997 </span></h5>
                 <!-- <h5 id="twenty" class="wow animate__fadeInDown">25 Years of <br> <span id="exper"> Experience </span></h5> -->
                 <h5 id="to" class="wow animate__fadeInUp">To Avoid Police station & Court...Meet Us</h5>
-
-                <h5 id="office" class="wow animate__fadeInUp">CGK India Law Firm located at Erode | Tiruppur | Theni | Nilgiris <br> With Services Across All Over TamilNadu</h5>
-                <p id="companies" class="wow animate__fadeInUp">We have <span style="font-weight: bold; color:#B23427"> 44 Empannelments </span><span id="mobilehide"> in Banking & Companies.</span></p>
+                <h5 id="office" class="wow animate__fadeInUp">CGK India Law Firm located at Erode | Tiruppur | Nilgiris | Coimbatore <br> With Services Across All Over India</h5>
+                <p id="companies" class="wow animate__fadeInUp">We have <span style="font-weight: bold; color:#B23427"> 43 Empannelments </span><span id="mobilehide"> in Banking & Companies.</span></p>
 <p id="mobilecom">in Banking and Companies</p>
             </div>
         </div>
@@ -212,13 +210,12 @@ require_once('./header.php');
             <div class="carousel-caption d-block">
                 <h5 id="twenty" class="wow pulse"> CGK INDIA LAW FIRM <br> <span id="exper"> ESTABLISHED Since 1997 </span></h5>
                 <h5 id="to" class="wow pulse">To Avoid Police station & Court...Meet Us</h5>
-                <h5 id="office" class="wow pulse">CGK India Law Firm located at Erode | Tiruppur | Theni | Nilgiris <br>  With Services Across All Over TamilNadu</h5>
-                <p id="companies" class="wow pulse">We have <span style="font-weight: bold; color:#B23427"> 44 Empannelments </span><span id="mobilehide"> in Banking & Companies.</span></p>
+                <h5 id="office" class="wow pulse">CGK India Law Firm located at Erode | Tiruppur | Nilgiris | Coimbatore <br>  With Services Across All Over India</h5>
+                <p id="companies" class="wow pulse">We have <span style="font-weight: bold; color:#B23427"> 43 Empannelments </span><span id="mobilehide"> in Banking & Companies.</span></p>
                 <p id="mobilecom">in Banking and Companies</p>
-</div>
             </div>
-        
-    </div>
+            </div>
+         </div>
     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
@@ -242,35 +239,37 @@ require_once('./mobile-nav.php')
         </div><!-- /.case-two__top -->
         <div class="container pb-5" id="boox" style="margin-top: 30px; ">
             <div class="row" style="text-align: center;color:white;">
-                <div class="col-lg-3">
-                    <img src="./assets/images/icons/balance.png" style="width: 40px;">
-                    <div id="txt" class="wow pulse">
-                        LEGAL OPINION</div>
+            <div class="col-lg-3"> <img src="./assets/images/icons/piggy-bank.png" style="width: 30px;">
+                    <div id="txt" class="wow pulse">BANKING and NBFC<br>(Non-Banking Financial Company)</div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-6"><img src="./assets/images/icons/motorbike.png" style="width: 30px;">
+                    <div id="txt" class="wow pulse">MOTORCYCLE ACCIDENT TRIBUNAL CASES</div>
+                </div>  <div class="col-lg-3">
 
-                    <img src="./assets/images/icons/house.png" style="width: 30px;">
-                    <div id="txt" class="wow pulse"> REAL-ESTATE COMPANIES </div>
+<img src="./assets/images/icons/house.png" style="width: 30px;">
+<div id="txt" class="wow pulse"> REAL-ESTATE COMPANIES </div>
 
-                </div>
-                <div class="col-lg-3">
-                    <img src="./assets/images/icons/factory.png" style="width: 30px;">
-                    <div id="txt" class="wow pulse"> INDUSTRIES </div>
-                </div>
-                <div class="col-lg-3"> <img src="./assets/images/icons/document.png" style="width: 30px;">
-                    <div id="txt" class="wow pulse">DOCUMENTATION </div>
-                </div>
+</div>
+             
+               
             </div>
             <div class="row pt-5 pb-5" style="text-align: center;color:white;">
 
                 <div class="col-lg-3"> <img src="./assets/images/icons/deed.png" style="width: 30px;">
                     <div id="txt" class="wow pulse"> DEED REGISTRATIONS </div>
                 </div>
-                <div class="col-lg-6"><img src="./assets/images/icons/motorbike.png" style="width: 30px;">
-                    <div id="txt" class="wow pulse">MOTORCYCLE ACCIDENT TRIBUNAL CASES</div>
+                <div class="col-lg-3"> <img src="./assets/images/icons/document.png" style="width: 30px;">
+                    <div id="txt" class="wow pulse">DOCUMENTATION </div>
                 </div>
-                <div class="col-lg-3"> <img src="./assets/images/icons/piggy-bank.png" style="width: 30px;">
-                    <div id="txt" class="wow pulse">BANKING and NBFC<br>(Non-Banking Financial Company)</div>
+<div class="col-lg-3">
+<img src="./assets/images/icons/factory.png" style="width: 30px;">
+<div id="txt" class="wow pulse"> INDUSTRIES </div>
+</div>
+              
+                <div class="col-lg-3">
+                    <img src="./assets/images/icons/balance.png" style="width: 40px;">
+                    <div id="txt" class="wow pulse">
+                        LEGAL OPINION</div>
                 </div>
             </div>
         </div><!-- /.row -->
@@ -299,12 +298,12 @@ require_once('./mobile-nav.php')
                                             about
                                             CGK INDIA LAW FIRM
                                         </span>
-                                        <h2 style="margin: 0px 10px 10px 0px;
+                                        <!-- <h2 style="margin: 0px 10px 10px 0px;
     font-size: 40px;
     line-height: 38px;
     font-weight:bold;color:#252525;padding-top:10px;">
                                             Those who want to avoid police station and Court meet us
-                                        </h2>
+                                        </h2> -->
                                     </div>
                                 </div>
                             </div>
@@ -324,11 +323,11 @@ require_once('./mobile-nav.php')
                             <div class="elementor-widget-container">
                                 <div class="ekit-wid-con">
                                     <div class="ekit-dropcap-wraper">
-                                        <p style="color: #999999;
-    font-family: Rubik, Sans-serif; font-size: 18px; font-weight: 400; ">The founder of this <b style="font-size:15px;">CGK INDIA LAW FIRM</b> is Mister C.Gopalakrishnan,
+                                        <p style="color: black;
+    font-family: Rubik, Sans-serif; font-size: 18px; font-weight: 400; ">The <b> FOUNDER</b> of <b style="font-size:15px;">CGK INDIA LAW FIRM</b> is Mister <b>C.GOPALAKRISHNAN</b>,
                                             the practicing
-                                            advocate in all over Tamil Nadu and he is a Notary Public
-                                            Government of India.
+                                           as an advocate in all over India, he is a <b>Notary Public
+                                            Government of India</b>.
                                             He is also a state Board member of Tamilnadu for
                                             International Human Rights
                                             Commission (IHRC) which is located in Geneva,
@@ -342,12 +341,12 @@ require_once('./mobile-nav.php')
                         <div class="elementor-element elementor-element-071f0cd elementor-widget elementor-widget-elementskit-heading" data-id="071f0cd" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-heading.default">
                             <div class="elementor-widget-container">
                                 <div class="ekit-wid-con" style="margin-top:20px;">
-                                    <div style="    color: #999999;
+                                    <div style="    color: black;
     font-size: 18px;
     line-height: 26px;
     letter-spacing: -0.36px;
     margin: -5px 0px 15px 0px;">
-                                        <p>The first achievement of this  CGK INDIA LAW FIRM was 
+                                        <p>The first achievement of this  <b>CGK INDIA LAW FIRM</b> was 
                                             on 1998 of getting an
                                             empanelment in SHRI RAM CHITS TAMILNADU PVT LTD. Our 2nd
                                             achievement is
@@ -355,31 +354,31 @@ require_once('./mobile-nav.php')
                                             CITY UNION BANK Erode
                                             main Branch in the year of 2000. These are our primary
                                             platforms that enables
-                                            to succeeding empanelments in more than 31 banks, non
-                                            banking sectors and 14
-                                            Companies (Including MNC companies). </p>
+                                            to succeeding empanelments in more than <b>33 banks</b>, non
+                                            banking sectors and <b>14
+                                            Companies (Including MNC companies).</b> </p>
                                     </div>
-                                    <div style="    color: #999999;
+                                    <div style="    color: black;
     font-size: 18px;
     line-height: 26px;
     letter-spacing: -0.36px;
     margin: -5px 0px 15px 0px;">
-                                        <p>Educational Qualification of the Founder:<br>
-                                            BA – Bachelor of Arts in Corporate Secretaryship<br>
-                                            BL – Bachelor Of Law<br>
-                                            D.L.L. & A.L. – Diploma in Labour Law & Administrative
+                                        <p><b>Educational Qualification of the Founder:</b><br>
+                                            <b>BA</b> – Bachelor of Arts in Corporate Secretaryship<br>
+                                            <b>BL</b> – Bachelor Of Law<br>
+                                            <b>D.L.L. & A.L.</b> – Diploma in Labour Law & Administrative
                                             Law<br>
-                                            M.C.S – Masters in Corporate Secretaryship
+                                            <b>M.C.S</b> – Masters in Corporate Secretaryship
 
                                         </p>
                                     </div>
-                                    <div style="    color: #999999;
+                                    <div style="color: black;
     font-size: 18px;
     line-height: 26px;
     letter-spacing: -0.36px;
     margin: -5px 0px 15px 0px;">
-                                        <p>Our Concerns <b>Chief Administrative Officer (CAO)</b> is Mister
-                                            G. Rubeshkumar son
+                                        <p>Our CGK INDIA LAW FIRM <b>Chief Administrative Officer (CAO)</b> is Mister
+                                            <b>G.RUBESHKUMAR</b> son
                                             of the Founder Mister C. Gopalakrishnan.
                                             Rubeshkumar has finished his<b > B.Com - Bachelor’s in Corporate
                                             Secretaryship 
@@ -391,9 +390,9 @@ require_once('./mobile-nav.php')
                                             This Skema business is one among the 50 Triple
                                             Accredited Business Schools in the world and it is
                                             in 6th World Ranking for Msc Finance. After finishing
-                                            his studies he worked as Financial Analyst 
-                                            for one year in Paris, France. Now he is perusing his
-                                            L.L.B (Bachelor’s in Law) and managing this firm since 2020.
+                                            his studies <b>he worked as Financial Analyst 
+                                            for one year in Paris, France. Now he is pursuing his
+                                            L.L.B (Bachelor’s in Law) managing CGK INDIA LAW FIRM  since 2020.</b>
                                         </p>
                                     </div>
                                 </div>
@@ -440,9 +439,6 @@ require_once('./mobile-nav.php')
 
                     </div>
                 </div>
-
-
-
             </div>
         </div>
         <div class="p-2 col-lg-6 col-md-6">
@@ -481,18 +477,15 @@ require_once('./mobile-nav.php')
 
 
             <div style="line-height:35px;color:black;font-weight:bold;font-size:large;">
-                <li>Legal Scrutiny Report (LSR)</li>
+                <li> All Banking and Corporate Cases </li>
+                <li>(LSR) Legal Scrutiny Report </li>
                 <li>Legal Notice</li>
                 <li> Money Suits Cases</li>
                 <li> Real-estate properties services</li>
-
                 <li>MCOP cases (Road accident <span class="deed">cases)</span></li>
-                <li> All Banking and Corporate Cases </li>
-
-
-                <li> DRT (Debt Tribunal Recovery) <span class="deed">Cases & All banking cases</span></li>
-                <li> Income Tax Appellate Tribunal <span class="deed">(ITAT) Cases</span></li>
-                <li> EP (Execution Petition) Cases </li>
+                <li> DRT <span class="deed">Cases </span> (Debt Tribunal Recovery) </li>
+                <li> <span class="deed">ITAT Cases</span> (Income Tax Appellate Tribunal) </li>
+                <li> EP Cases(Execution Petition)  </li>
 
                 <li>Property Dispute Cases</li>
                 <li> 138 NI Act (Negotiable Instrument <span class="deed">ACT)</span> </li>
@@ -502,21 +495,20 @@ require_once('./mobile-nav.php')
 
 
                 <h4 style="text-align:center;color:#B23427;text-transform:capitalize;margin-top:10px;">
-                    All types of Deed Registrations Documentations and Agreements</h4>
+                    All types of Deed Registrations and Documentations  </h4>
                 <div style="display:flex;" >
                     <div >
-                        <li> Simple <span class="markage">Markage </span><span class="ml-4">Registration</span> </li>
-                        <li> MODT <span class="reg">Registration</span> </li>
-                        <li> MODT <span class="cancel">Cancellation</span> </li>
+                        <li> Simple <span class="markage">mortgage Deed </span><span class="ml-4">Registration & Cancellation</span> </li>
+                        <li> MODT  Deed<br><span class="ml-4">Registration & Cancellation</span>  </li>
+                        
                         <li>Sale Deed </li>
                         <li> Partnership <span class="deed">Deed</span> </li>
                         <li> Power of <span class="deed">Attorney</span> <span class="deed">Deed</span></span></li>
                         <li> Will Deed </li>
                     </div>
-                    <div>
-                            
+                     <div>
                              <li> Marriage Deed </li>
-                             <li>Sale agreement <span class="Registrations">Registrations</span></li>
+                             <li>Sale agreement <span class="Registrations">Deed</span></li>
                            <li> Settlement <span class="deed">Deed</span> </li>
                            <li>Exchange Deed</li>
                         <li> Rectification <span class="deed">Deed</span> </li> 
@@ -531,18 +523,14 @@ require_once('./mobile-nav.php')
                         <li>Adangal</li>
                         <li>DTCP Approval<br> <span class="ml-4">(Director of town & country <span class="deed">Planning Approval)</span></span></li>
                         <li> Local Board approval for <span class="deed">construction</span></li>
-                        <li> Layout Planning by the <span class="deed">government surveyor</span></li>
-                        <li> Forming Land Layout with <span class="deed">government surveyor</span> </li>
+                        <li>  Plan Layout done by the <span class="deed">government surveyor</span></li>
+                        <li>  Land Layout Forming by <span class="deed">government surveyor</span> </li>
                         <li> Building Plan Approval<br>
                         <span class="ml-4"> A) House, B) Commercial,C) <span class="deed">Industies</span></span>
-
                         </li>
-                        
                         <li> Trademark Registration </li>
                         <li> ISO Certificate </li>
-</div>
-                   
-              
+                    </div> 
             </div>
 
         </div>
@@ -559,7 +547,7 @@ require_once('./mobile-nav.php')
 
 <section class="cta-one">
     <div class="container text-center">
-        <h3 class="cta-one__title">Need an Advice from Expert Lawyers? <br> Get an Appointment Today!</h3><!-- /.cta-one__title -->
+    <h3 class="cta-one__title">Need a Legal Solutions<br> Get an Appointment From our<br> CGK INDIA LAW FIRM <br></h3><!-- /.cta-one__title -->
         <p class="cta-one__phone">
             <i class="fa fa-phone-alt"></i>
             Call us for a quick help!
@@ -624,11 +612,19 @@ require_once('./mobile-nav.php')
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="case-form-one__field">
                             <select class="selectpicker" name="services">
-                                <option>Service Required</option>
-                                <option value="Real Estate Laws">Real Estate Laws</option>
-                                <option value="Personal Injury">Personal Injury</option>
-                                <option value="Criminal Laws">Criminal Laws</option>
-                                <option value="Health Related Laws">Health Related Laws</option>
+                                <option value="">Service</option>
+                                <option value="All Banking and Corporate Cases">All Banking and Corporate Cases</option>
+                                <option value="Legal Scrutiny Report ">Legal Scrutiny Report </option>
+                                <option value="Legal Notice">Legal Notice</option>
+                                <option value="Money Suits Cases">Money Suits Cases</option>
+                                <option value="Real-estate properties services">Real-estate properties services</option>
+                                <option value="MCOP cases ">MCOP cases </option>
+                                <option value="DRT Cases ">DRT Cases </option>
+                                <option value="ITAT Cases">ITAT Cases</option>
+                                <option value="EP Cases">EP Cases</option>
+                                <option value="Property Dispute Cases">Property Dispute Cases</option>
+                                <option value="138 NI Act">138 NI Act</option>
+                                <option value="Sole Arbitrator">Sole Arbitrator</option>
                             </select>
                         </div><!-- /.case-form-one__field -->
                     </div><!-- /.col-md-6 col-sm-12 -->
@@ -652,7 +648,7 @@ require_once('./mobile-nav.php')
     <div class="container">
         <div class="team-one__top">
             <div class="block-title">
-                <h3 class="block-title__title"> <a  href="about.php">Experienced Lawyers & Experts</a></h3><!-- /.block-title__title -->
+                <h3 class="block-title__title"> <a  href="about.php">Expert Lawyers  </a></h3><!-- /.block-title__title -->
             </div><!-- /.block-title -->
             <div class="team-one__more-block">
                 <a href="careers.php" class="thm-btn team-one__more-btn">Join our team <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -702,15 +698,15 @@ require_once('./mobile-nav.php')
                    
                     <div class="col-lg-3" style="background-color: white;">
                         <img src=" ./assets/images/favicon/location.svg" width="50px" alt="">
-                        <h3 style="font-weight:bold">Theni</h3>
+                        <h3 style="font-weight:bold">Theeni</h3>
                     </div>
                     <div class="col-lg-3" style="background-color: white;">
                         <img src=" ./assets/images/favicon/location.svg" width="50px" alt="">
-                        <h3 style="font-weight:bold">Nilgiri</h3>
+                        <h3 style="font-weight:bold">Nilgiris</h3>
                     </div>
                     <div class="col-lg-3" style="background-color: white;">
                         <img src=" ./assets/images/favicon/location.svg" width="50px" alt="">
-                        <h3 style="font-weight:bold">Tripur</h3>
+                        <h3 style="font-weight:bold">Trippur</h3>
                     </div>
                 </div>
             </div>
