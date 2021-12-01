@@ -13,6 +13,9 @@ require_once('./header.php');
         color :white;
         font-size:1.5rem;
     }
+
+
+
     .cinfo a{
         color:#e0a965;
     }
@@ -152,7 +155,7 @@ require_once('./mobile-nav.php')
                 <div class="blog-one__single">
                     <div class="blog-one__image">
                         <div class="blog-one__image-inner">
-                            <img src="https://curiousforlaw.com/wp-content/uploads/2020/11/copyright.jpg" alt="Awesome Image" />
+                            <img src="https://curiousforlaw.com/wp-content/uploads/2020/11/copyright.jpg" height="200px" alt="Awesome Image" />
                         </div>
                     </div>
                     <div class="blog-one__content" style="padding:0px;">
@@ -191,7 +194,7 @@ require_once('./mobile-nav.php')
                 <div class="blog-one__single">
                     <div class="blog-one__image">
                         <div class="blog-one__image-inner">
-                        <img src="assets/images/blog/arbitation.jfif" alt="Awesome Image" />
+                        <img src="assets/images/blog/arbitation.jfif" alt="Awesome Image" height="180px" />
 
                         </div>
                     </div>
@@ -254,7 +257,7 @@ require_once('./mobile-nav.php')
                 <div class="blog-one__single">
                     <div class="blog-one__image">
                         <div class="blog-one__image-inner">
-                            <img src="https://roofandfloor.thehindu.com/real-estate-blog/wp-content/uploads/sites/14/2019/02/How-Sale-Deed-Is-Executed--840x480.jpg" alt="Awesome Image" />
+                            <img src="https://roofandfloor.thehindu.com/real-estate-blog/wp-content/uploads/sites/14/2019/02/How-Sale-Deed-Is-Executed--840x480.jpg" height="250px" alt="Awesome Image" />
                         </div>
                     </div>
                     <div class="blog-one__content" style="padding:0px;">
@@ -443,7 +446,7 @@ require_once('./mobile-nav.php')
                 <div class="blog-one__single">
                     <div class="blog-one__image">
                         <div class="blog-one__image-inner">
-                            <img src="https://www.livechennai.com/businesslistings/News_photo/patta21817.jpg" alt="Awesome Image" />
+                            <img src="https://www.livechennai.com/businesslistings/News_photo/patta21817.jpg" alt="Awesome Image" height="270px" />
                         </div>
                     </div>
                     <div class="blog-one__content" style="padding:0px;">
@@ -465,11 +468,12 @@ require_once('./mobile-nav.php')
                     </div>
                 </div>
             </div>
+
             <div class="col-lg-4">
                 <div class="blog-one__single">
                     <div class="blog-one__image">
                         <div class="blog-one__image-inner">
-                            <img src="assets/images/blog/adangal.jpg" style="height:40vh;" alt="Awesome Image" />
+                            <img src="https://syedsmartdeal.com/wp-content/uploads/2019/11/What-is-Patta-Chitta-adangal.jpg" style="height:40vh;" alt="Awesome Image" />
                         </div>
                     </div>
                     <div class="blog-one__content" style="padding:0px;">
@@ -512,7 +516,7 @@ require_once('./mobile-nav.php')
                         </div>
                     </div>
                     <div class="blog-one__content" style="padding:0px;">
-                        <h3 class="blog-one__title"><center>Layout Planning by the government surveyor</center></h3>
+                        <h3 class="blog-one__title"><center>Plan Layout done by the government surveyor</center></h3>
                         <!-- <p class="blog-one__text"></p> -->
                     </div>
                 </div>
@@ -522,11 +526,11 @@ require_once('./mobile-nav.php')
                 <div class="blog-one__single">
                     <div class="blog-one__image">
                         <div class="blog-one__image-inner">
-                            <img src="assets/images/blog/farming layot.jpg" style="height: 30vh;" alt="Awesome Image" />
+                            <img src="https://thumbs.dreamstime.com/b/seizure-forest-land-agriculture-destruction-forests-bulldozer-82155141.jpg" style="height: 30vh;" alt="Awesome Image" />
                         </div>
                     </div>
                     <div class="blog-one__content" style="padding:0px;">
-                        <h3 class="blog-one__title"><center>Forming Land Layout with Government surveyor </center></h3>
+                        <h3 class="blog-one__title"><center>Land Layout Forming by government surveyor </center></h3>
                         <!-- <p class="blog-one__text"></p> -->
                     </div>
                 </div>
@@ -562,7 +566,7 @@ require_once('./mobile-nav.php')
                 <div class="blog-one__single">
                     <div class="blog-one__image">
                         <div class="blog-one__image-inner">
-                            <img src="assets/images/blog/iso.png" style="height: 30vh;" alt="Awesome Image" />
+                            <img src="https://www.registrationking.com/wp-content/uploads/2020/06/iso1.png" style="height: 30vh;" alt="Awesome Image" />
                         </div>
                     </div>
                     <div class="blog-one__content" style="padding:0px;">

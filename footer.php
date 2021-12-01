@@ -35,7 +35,7 @@
             <div class="col-xl-3 col-lg-6">
                 <div class="footer-widget">
                     <h3 class="footer-widget__title">Head Office</h3><!-- /.footer-widget__title -->
-                    <a href="https://goo.gl/maps/gaY7gBgW3CU8LBuQA" target="_blank" style="color:white">
+                    <a href="https://goo.gl/maps/djgR6gyCn99joux88" target="_blank" style="color:white">
                     <p class="footer-widget__text">Chinnu Rathinam Complex, 54A/10, <br> Annamalai Layout, Nalli Hospital Road,</p><!-- /.footer-widget__text -->
                     <p class="footer-widget__text footer-widget__contact-info"><span>Erode District-638011,Tamilnadu.</span> </p><!-- /.footer-widget__text -->
                     </a>

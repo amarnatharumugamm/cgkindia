@@ -105,7 +105,7 @@ require_once('./mobile-nav.php')
             <div class="col-lg-3">
                 <div class="contact-one__info">
                 <div class="contact-one__info-single">
-                        <h3 class="contact-one__info-title"><i id="icon" style="color:brown;" class="fas fa-map-marker-alt" > </i>  <a href="https://goo.gl/maps/gaY7gBgW3CU8LBuQA" target="_blank">
+                        <h3 class="contact-one__info-title"><i id="icon" style="color:brown;" class="fas fa-map-marker-alt" > </i>  <a href="https://goo.gl/maps/djgR6gyCn99joux88" target="_blank">
  Erode-Address</a> </h3><!-- /.contact-one__info-title -->
                         <!-- <a href="https://goo.gl/maps/gaY7gBgW3CU8LBuQA" target="_blank"> -->
                         <p class="contact-one__info-text">Chinnu Rathinam Complex,54A/10,<br>Annamalai Layout,Nalli Hospital Road,<br>Erode District-638011,Tamilnadu.</p><!-- /.contact-one__info-text -->
@@ -115,18 +115,16 @@ require_once('./mobile-nav.php')
                         <h3 class="contact-one__info-title">NILGIRIS-Address</h3><!-- /.contact-one__info-title -->
                         <p class="contact-one__info-text">5/19A5 Marapalam,Puliyampara(Po),<br>Gudalur Tk,<br>Nilgiri District-643212,Tamilnadu.</p><!-- /.contact-one__info-text -->
                     </div><!-- /.contact-one__info-single -->
-                    
-                  
                 </div><!-- /.contact-one__info -->
             </div><!-- /.col-lg-5 -->
         </div><!-- /.row -->
     </div><!-- /.container -->
 </section><!-- /.contact-one -->
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3911.82817867614!2d77.71421141480593!3d11.34725759193573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTHCsDIwJzUwLjEiTiA3N8KwNDInNTkuMCJF!5e0!3m2!1sen!2sin!4v1627020529155!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d977.9570083351585!2d77.71590002918003!3d11.347268199495964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba96f30cafd9df5%3A0x55f0ab59286b3973!2s54B%2C%20Nalli%20Hospital%20Rd%2C%20Municipal%20Colony%2C%20Veerappanchatram%2C%20Santhakadu%2C%20Erode%2C%20Tamil%20Nadu%20638009!5e0!3m2!1sen!2sin!4v1638336666124!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 <section class="cta-one my-1 cheight" >
     <div class="container text-center" id="cont">
-        <h3 class="cta-one__title">Need a Legal Solutions<br> Get an Appointment From our CGK INDIA LAW FIRM </h3><!-- /.cta-one__title -->
+        <h3 class="cta-one__title">Need a Legal Solutions<br> Get an Appointment From our <br>CGK INDIA LAW FIRM </h3><!-- /.cta-one__title -->
         <p class="cta-one__phone">
             <i class="fa fa-phone-alt"></i>
             Call us for a quick help!
