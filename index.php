@@ -483,8 +483,8 @@ require_once('./mobile-nav.php')
                 <li> Money Suits Cases</li>
                 <li> Real-estate properties services</li>
                 <li>MCOP cases (Road accident <span class="deed">cases)</span></li>
-                <li> DRT <span class="deed">Cases </span> (Debt Tribunal Recovery) </li>
-                <li> <span class="deed">ITAT Cases</span> (Income Tax Appellate Tribunal) </li>
+                <li> DRT <span class="deed">Cases </span> (Debt Tribunal <span class="deed"> Recovery)</span> </li>
+                <li> ITAT Cases (Income Tax <span class="deed">Appellate Tribunal)</span> </li>
                 <li> EP Cases(Execution Petition)  </li>
 
                 <li>Property Dispute Cases</li>
@@ -498,12 +498,12 @@ require_once('./mobile-nav.php')
                     All types of Deed Registrations and Documentations  </h4>
                 <div style="display:flex;" >
                     <div >
-                        <li> Simple <span class="markage">mortgage Deed </span><span class="ml-4">Registration & Cancellation</span> </li>
-                        <li> MODT  Deed<br><span class="ml-4">Registration & Cancellation</span>  </li>
+                        <li> Simple <span class="markage">mortgage</span> <span class="deed">Deed</span> <span class="ml-4">Registration &</span> <span class="deed">Cancellation</span> </li>
+                        <li> MODT  Deed<br><span class="ml-4">Registration &</span> <span class="deed">Cancellation </span>  </li>
                         
                         <li>Sale Deed </li>
                         <li> Partnership <span class="deed">Deed</span> </li>
-                        <li> Power of <span class="deed">Attorney</span> <span class="deed">Deed</span></span></li>
+                        <li> Power of <span class="deed">Attorney</span> <span class="deed">Deed</span></li>
                         <li> Will Deed </li>
                     </div>
                      <div>
@@ -513,7 +513,7 @@ require_once('./mobile-nav.php')
                            <li>Exchange Deed</li>
                         <li> Rectification <span class="deed">Deed</span> </li> 
                             <li>Association <span class="deed">Deed</span></li>
-                        <li> Trust Deed & <span class="deed">Agency</span> <span class="ml-4">Agreement, etc…</span></li> </div>  </div>
+                        <li> Trust Deed & <span class="deed">Agency</span> <span class="ml-4">Agreement,etc…</span></li> </div>  </div>
                         <br>
                         <div>
                         <h3 style="text-align:center;color:#B23427;">Revenue Records and Approvals</h3>
