@@ -200,7 +200,7 @@ require_once('./header.php');
                 <!-- <h5 id="twenty" class="wow animate__fadeInDown">25 Years of <br> <span id="exper"> Experience </span></h5> -->
                 <h5 id="to" class="wow animate__fadeInUp">To Avoid Police station & Court...Meet Us</h5>
                 <h5 id="office" class="wow animate__fadeInUp">CGK India Law Firm located at Erode | Tiruppur | Nilgiris | Coimbatore <br> With Services Across All Over India</h5>
-                <p id="companies" class="wow animate__fadeInUp">We have <span style="font-weight: bold; color:#B23427"> 43 Empannelments </span><span id="mobilehide"> in Banking & Companies.</span></p>
+                <p id="companies" class="wow animate__fadeInUp">We have <span style="font-weight: bold; color:#B23427"> 48 Empannelments </span><span id="mobilehide"> in Banking & Companies.</span></p>
 <p id="mobilecom">in Banking and Companies</p>
             </div>
         </div>
@@ -211,7 +211,7 @@ require_once('./header.php');
                 <h5 id="twenty" class="wow pulse"> CGK INDIA LAW FIRM <br> <span id="exper"> ESTABLISHED Since 1997 </span></h5>
                 <h5 id="to" class="wow pulse">To Avoid Police station & Court...Meet Us</h5>
                 <h5 id="office" class="wow pulse">CGK India Law Firm located at Erode | Tiruppur | Nilgiris | Coimbatore <br>  With Services Across All Over India</h5>
-                <p id="companies" class="wow pulse">We have <span style="font-weight: bold; color:#B23427"> 43 Empannelments </span><span id="mobilehide"> in Banking & Companies.</span></p>
+                <p id="companies" class="wow pulse">We have <span style="font-weight: bold; color:#B23427"> 48 Empannelments </span><span id="mobilehide"> in Banking & Companies.</span></p>
                 <p id="mobilecom">in Banking and Companies</p>
             </div>
             </div>
@@ -698,7 +698,7 @@ require_once('./mobile-nav.php')
                    
                     <div class="col-lg-3" style="background-color: white;">
                         <img src=" ./assets/images/favicon/location.svg" width="50px" alt="">
-                        <h3 style="font-weight:bold">Theeni</h3>
+                        <h3 style="font-weight:bold">Coimbatore</h3>
                     </div>
                     <div class="col-lg-3" style="background-color: white;">
                         <img src=" ./assets/images/favicon/location.svg" width="50px" alt="">

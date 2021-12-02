@@ -1405,7 +1405,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
                     
                     <div class="col-lg-3" style="background-color: white;">
                         <img src=" ./assets/images/favicon/location.svg" width="50px" alt="">
-                        <h3 style="font-weight:bold">Theeni</h3>
+                        <h3 style="font-weight:bold">Coimbatore</h3>
                     </div>
                     <div class="col-lg-3" style="background-color: white;">
                         <img src=" ./assets/images/favicon/location.svg" width="50px" alt="">
@@ -1424,7 +1424,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" ></script>
 <section class="cta-one my-1 cheight" >
     <div class="container text-center" id="cont">
-    <h3 class="cta-one__title">Need a Legal Solutions<br> Get an Appointment From our CGK INDIA LAW FIRM </h3><!-- /.cta-one__title -->
+    <h3 class="cta-one__title">Need a Legal Solutions<br> Get an Appointment From our <br>CGK INDIA LAW FIRM </h3><!-- /.cta-one__title -->
 
     <p class="cta-one__phone">
             <i class="fa fa-phone-alt"></i>
