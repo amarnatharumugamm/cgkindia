@@ -67,7 +67,7 @@ require_once('./header.php');
     <div class="container">
         <h2 class="inner-banner__title">Manpower</h2><!-- /.inner-banner__title -->
         <ul class="list-unstyled thm-breadcrumb">
-            <li><a href="index-2.php">Home</a></li>
+            <li><a href="/index.php">Home</a></li>
             <li>Manpower</li>
         </ul><!-- /.thm-breadcrumb -->
     </div><!-- /.container -->
@@ -1222,22 +1222,102 @@ Working here since - 2020 September 1. </span> </b></span></p>
                   <p class="text-center"><span style="font-weight:bold;font-size: 20px;">     Tirppur Head</span> </b></span></p>
               </div>
             </div>
-           
-
           </div>
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        
         </div>
       </div>
     </div>
-  </div>
-
+  </div> 
                     </div><!-- /.team-one__content -->
                 </div><!-- /.team-one__single -->
             </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
          
+            <div class="col-lg-3 col-md-6 col-sm-12 px-4 ">
+                <div class="team-one__single">
+                    <div class="team-one__image">
+                        <img src="assets/images/lenin.jpeg" style="height:45vh;" alt="Awesome Image" />
+                    </div><!-- /.team-one__image -->
+                    <div class="team-one__content" style="padding-bottom:0px;">
+                        <h3 class="team-one__name"> P. Lenin </h3><!-- /.team-one__name -->
+                        <p class="team-one__designation">Marketing Assistant Manager</p><!-- /.team-one__designation -->
+                        <p class="team-one__designation">3 years Experience</p>
+                       
+                       
+                        <button type="button" class="btn btn-primary my-3" data-bs-toggle="modal" data-bs-target="#Lenin">
+  Profile
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="Lenin" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">P. Lenin </h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+                  <img src="assets/images/lenin.jpeg" alt="demo" height="300" width:"400">
+              </div>
+            </div>
+              <div class="row">
+              <div class="col-md-12 ms-auto">
+                  <h4 class="d-flex justify-content-center mt-3 text-primary "> <b> P. Lenin</b></h4>
+              </div>
+              
+            </div>
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+              <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold">Education Qualification </span> </b></h4>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">D.EEE, B.E..,</span> </b></span></p>
+                  
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+              <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold">Expert in </span> </b></h4>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;"> Marketing and Registration Field</span> </b></span></p>
+                  
+              </div>
+            </div>
+            
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+                  <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Total Experience </span> </b></h4>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">  3 years</span> </b></span></p>
+              </div>
+            </div>
+           
+              
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+                  <h4 class="d-flex justify-content-center my-2 text-secondary" > <b> <span style="color:#170055;font-weight:bold"> Office </span></b></h4>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">    Erode </span> </b></span></p>
+                </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 ms-auto">
+              <h4 class="d-flex justify-content-center my-2 text-secondary"> <b> <span style="color:#170055;font-weight:bold"> Designation  </span></b></h4>
+                  <p class="text-center"><span style="font-weight:bold;font-size: 20px;">     Marketing Assistant Manager</span> </b></span></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div> 
+                    </div><!-- /.team-one__content -->
+                </div><!-- /.team-one__single -->
+            </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+         
+
         </div>
         
         
@@ -1405,7 +1485,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
                     
                     <div class="col-lg-3" style="background-color: white;">
                         <img src=" ./assets/images/favicon/location.svg" width="50px" alt="">
-                        <h3 style="font-weight:bold">Theeni</h3>
+                        <h3 style="font-weight:bold">Coimbatore</h3>
                     </div>
                     <div class="col-lg-3" style="background-color: white;">
                         <img src=" ./assets/images/favicon/location.svg" width="50px" alt="">
@@ -1424,7 +1504,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" ></script>
 <section class="cta-one my-1 cheight" >
     <div class="container text-center" id="cont">
-    <h3 class="cta-one__title">Need a Legal Solutions<br> Get an Appointment From our CGK INDIA LAW FIRM </h3><!-- /.cta-one__title -->
+    <h3 class="cta-one__title">Need a Legal Solutions<br> Get an Appointment From our <br>CGK INDIA LAW FIRM </h3><!-- /.cta-one__title -->
 
     <p class="cta-one__phone">
             <i class="fa fa-phone-alt"></i>

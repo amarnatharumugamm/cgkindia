@@ -41,7 +41,7 @@ require_once('./header.php');
     <div class="container">
         <h2 class="inner-banner__title">Notary Public Service</h2><!-- /.inner-banner__title -->
         <ul class="list-unstyled thm-breadcrumb">
-            <li><a href="index-2.php">Home</a></li>
+            <li><a href="/index.php">Home</a></li>
             <li>Notary Public Service</li>
         </ul><!-- /.thm-breadcrumb -->
     </div><!-- /.container -->

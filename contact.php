@@ -35,7 +35,7 @@ require_once('./header.php');
     <div class="container" style=" margin-top:180px;">
         <h2 class="inner-banner__title">Contact Us</h2><!-- /.inner-banner__title -->
         <ul class="list-unstyled thm-breadcrumb">
-            <li><a href="index-2.php">Home</a></li>
+            <li><a href="/index.php">Home</a></li>
             <li>Get In Touch</li>
         </ul><!-- /.thm-breadcrumb -->
     </div><!-- /.container -->

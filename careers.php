@@ -40,7 +40,7 @@ require_once('./header.php');
     <div class="container">
         <h2 class="inner-banner__title">Careers</h2><!-- /.inner-banner__title -->
         <ul class="list-unstyled thm-breadcrumb">
-            <li><a href="index-2.php">Home</a></li>
+            <li><a href="/index.php">Home</a></li>
             <li>Careers</li>
         </ul><!-- /.thm-breadcrumb -->
     </div><!-- /.container -->
@@ -223,7 +223,7 @@ require_once('./mobile-nav.php')
 </section><!-- /.contact-one -->
 <section class="cta-one my-1 cheight" >
     <div class="container text-center" id="cont">
-    <h3 class="cta-one__title">Need a Legal Solutions<br> Get an Appointment From our CGK INDIA LAW FIRM </h3><!-- /.cta-one__title -->
+    <h3 class="cta-one__title">Need a Legal Solutions<br> Get an Appointment From our <br>CGK INDIA LAW FIRM </h3><!-- /.cta-one__title -->
     <p class="cta-one__phone">
             <i class="fa fa-phone-alt"></i>
             Call us for a quick help!

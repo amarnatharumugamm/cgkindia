@@ -4,7 +4,7 @@
             <div class="col-xl-4 col-lg-6">
                 <div class="footer-widget">
                     <a href="index-2.php" class="footer-widget__logo"><img src="./assets/logo.png" width="100px" alt="Awesome Image" /></a>
-                    <p class="footer-widget__text">Those who want to avoid police station and Court meet us.We Have 43 emphalments in Banking and Companies.25 years of Experience.</p><!-- /.footer-widget__text -->
+                    <p class="footer-widget__text">Those who want to avoid police station and Court meet us.We Have 48 emphalments in Banking and Companies.25 years of Experience.</p><!-- /.footer-widget__text -->
                 </div><!-- /.footer-widget -->
             </div><!-- /.col-lg-4 -->
             <div class="col-xl-2 col-lg-6">

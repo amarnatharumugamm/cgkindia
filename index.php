@@ -200,7 +200,7 @@ require_once('./header.php');
                 <!-- <h5 id="twenty" class="wow animate__fadeInDown">25 Years of <br> <span id="exper"> Experience </span></h5> -->
                 <h5 id="to" class="wow animate__fadeInUp">To Avoid Police station & Court...Meet Us</h5>
                 <h5 id="office" class="wow animate__fadeInUp">CGK India Law Firm located at Erode | Tiruppur | Nilgiris | Coimbatore <br> With Services Across All Over India</h5>
-                <p id="companies" class="wow animate__fadeInUp">We have <span style="font-weight: bold; color:#B23427"> 43 Empannelments </span><span id="mobilehide"> in Banking & Companies.</span></p>
+                <p id="companies" class="wow animate__fadeInUp">We have <span style="font-weight: bold; color:#B23427"> 48 Empannelments </span><span id="mobilehide"> in Banking & Companies.</span></p>
 <p id="mobilecom">in Banking and Companies</p>
             </div>
         </div>
@@ -211,7 +211,7 @@ require_once('./header.php');
                 <h5 id="twenty" class="wow pulse"> CGK INDIA LAW FIRM <br> <span id="exper"> ESTABLISHED Since 1997 </span></h5>
                 <h5 id="to" class="wow pulse">To Avoid Police station & Court...Meet Us</h5>
                 <h5 id="office" class="wow pulse">CGK India Law Firm located at Erode | Tiruppur | Nilgiris | Coimbatore <br>  With Services Across All Over India</h5>
-                <p id="companies" class="wow pulse">We have <span style="font-weight: bold; color:#B23427"> 43 Empannelments </span><span id="mobilehide"> in Banking & Companies.</span></p>
+                <p id="companies" class="wow pulse">We have <span style="font-weight: bold; color:#B23427"> 48 Empannelments </span><span id="mobilehide"> in Banking & Companies.</span></p>
                 <p id="mobilecom">in Banking and Companies</p>
             </div>
             </div>
@@ -480,11 +480,11 @@ require_once('./mobile-nav.php')
                 <li> All Banking and Corporate Cases </li>
                 <li>(LSR) Legal Scrutiny Report </li>
                 <li>Legal Notice</li>
-                <li> Money Suits Cases</li>
+                <li> Money Suit Cases</li>
                 <li> Real-estate properties services</li>
                 <li>MCOP cases (Road accident <span class="deed">cases)</span></li>
-                <li> DRT <span class="deed">Cases </span> (Debt Tribunal Recovery) </li>
-                <li> <span class="deed">ITAT Cases</span> (Income Tax Appellate Tribunal) </li>
+                <li> DRT <span class="deed">Cases </span> (Debt  Recovery<span class="deed"> Tribunal)</span> </li>
+                <li> ITAT Cases (Income Tax <span class="deed">Appellate Tribunal)</span> </li>
                 <li> EP Cases(Execution Petition)  </li>
 
                 <li>Property Dispute Cases</li>
@@ -498,12 +498,12 @@ require_once('./mobile-nav.php')
                     All types of Deed Registrations and Documentations  </h4>
                 <div style="display:flex;" >
                     <div >
-                        <li> Simple <span class="markage">mortgage Deed </span><span class="ml-4">Registration & Cancellation</span> </li>
-                        <li> MODT  Deed<br><span class="ml-4">Registration & Cancellation</span>  </li>
+                        <li> Simple <span class="markage">mortgage</span> <span class="deed">Deed</span> <span class="ml-4">Registration &</span> <span class="deed">Cancellation</span> </li>
+                        <li> MODT  Deed<br><span class="ml-4">Registration &</span> <span class="deed">Cancellation </span>  </li>
                         
                         <li>Sale Deed </li>
                         <li> Partnership <span class="deed">Deed</span> </li>
-                        <li> Power of <span class="deed">Attorney</span> <span class="deed">Deed</span></span></li>
+                        <li> Power of <span class="deed">Attorney</span> <span class="deed">Deed</span></li>
                         <li> Will Deed </li>
                     </div>
                      <div>
@@ -513,7 +513,7 @@ require_once('./mobile-nav.php')
                            <li>Exchange Deed</li>
                         <li> Rectification <span class="deed">Deed</span> </li> 
                             <li>Association <span class="deed">Deed</span></li>
-                        <li> Trust Deed & <span class="deed">Agency</span> <span class="ml-4">Agreement, etc…</span></li> </div>  </div>
+                        <li> Trust Deed & <span class="deed">Agency</span> <span class="ml-4">Agreement,etc…</span></li> </div>  </div>
                         <br>
                         <div>
                         <h3 style="text-align:center;color:#B23427;">Revenue Records and Approvals</h3>
@@ -698,7 +698,7 @@ require_once('./mobile-nav.php')
                    
                     <div class="col-lg-3" style="background-color: white;">
                         <img src=" ./assets/images/favicon/location.svg" width="50px" alt="">
-                        <h3 style="font-weight:bold">Theeni</h3>
+                        <h3 style="font-weight:bold">Coimbatore</h3>
                     </div>
                     <div class="col-lg-3" style="background-color: white;">
                         <img src=" ./assets/images/favicon/location.svg" width="50px" alt="">

@@ -44,10 +44,10 @@ require_once('./header.php');
     <div class="container">
         <h2 class="inner-banner__title">Empannelments</h2>
         <ul class="list-unstyled thm-breadcrumb">
-            <li><a href="index-2.php">Home</a></li>
+            <li><a href="/index.php">Home</a></li>
             <li>Empannelments</li><br>
         </ul>
-        <h2 style="color:#e0a965;">we have 43 Empannelments</h2>
+        <h2 style="color:#e0a965;">we have 48 Empannelments</h2>
     </div>
 </section>
 <?php
@@ -57,17 +57,17 @@ require_once('./mobile-nav.php')
     <div class="container-fluid">
         <div class="row no-gutters">
             <div class="col-lg-12">
-                <div class="faq-one">
+                <div class="faq-one" style="padding:0px;">
                     <div class="m-5">
                         <div data-grp-name="faq-one__accrodion">
                         <div class="accrodion">
                                 <div class="accrodion-title" style="color:white;background-color:black;">
-                                    <h4> <b style="padding:5px;border-radius:3px;">Multinational Companies (MNC)</b></h4>
+                                    <h4 style="padding:10px;"> <b style="border-radius:3px;">Multinational Companies (MNC)</b></h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
-                                        <ul>
-                                            <li id="hidee">1) Anouman Audit and Expertise (located in France, Africa & India)</li>
+                                        <ul style="padding:0px;">
+                                            <li id="hidee" class="display:flex;justify-content:center;">1) Anouman Audit and Expertise (located in France, Africa & India)</li>
                                             <li id="hidee">2) Ramu Mahal PVT Limited (US based company)</li>
                                         </ul>
                                     </div>
@@ -76,12 +76,17 @@ require_once('./mobile-nav.php')
                          
                             <div class="accrodion">
                                 <div class="accrodion-title" style="color:white;background-color:black;">
-                                    <h4 ><b style="padding:5px;border-radius:3px;">Realestate & Properties LTD Companies</b></h4>
+                                    <h4 style="padding:10px;"><b style="border-radius:3px;">Realestate & Properties LTD Companies</b></h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
-                                        <ul>
-                                            <li id="hidee">3) VR Promoters & OPV housing and properties</li>
+                                        <ul style="padding:0px;">
+                                            <li id="hidee">3) VR Promoters 
+                                                 </li>
+                                            <li id="hidee">4)  
+                                                 OPV housing and properties</li>
+                                            <li id="hidee">5) 
+                                                 SLR Real Estate</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -89,19 +94,19 @@ require_once('./mobile-nav.php')
 
                             <div class="accrodion">
                                 <div class="accrodion-title" style="color:white;background-color:black;">
-                                    <h4><b style="padding:5px;border-radius:3px;">Corporate sectors</b></h4>
+                                    <h4 style="padding:10px;"><b style="border-radius:3px;">Corporate sectors</b></h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
-                                        <ul>
-                                            <li id="hidee">4) Discount Soap (Shriram Bharath Chemical & Detergents (p) Ltd</li>
-                                            <li id="hidee">5) Southern Printers PVT., Ltd</li>
-                                            <li id="hidee">6) Texvalley,</li>
-                                            <li id="hidee">7) Pure and Perfect Ltd</li>
-                                            <li id="hidee">8) Viswak Tex</li>
-                                            <li id="hidee">9) Shri Vari Corporation</li>
-                                            <li id="hidee">10) Maruthi Pipes</li>
-                                            <li id="hidee">11) Bizstart</li>
+                                        <ul style="padding:0px;">
+                                            <li id="hidee">6) Discount Soap (Shriram Bharath Chemical & Detergents (p) Ltd</li>
+                                            <li id="hidee">7) Southern Printers PVT., Ltd</li>
+                                            <li id="hidee">8) Texvalley,</li>
+                                            <li id="hidee">9) Pure and Perfect Ltd</li>
+                                            <li id="hidee">10) Viswak Tex</li>
+                                            <li id="hidee">11) Shri Vari Corporation</li>
+                                            <li id="hidee">12) Maruthi Pipes</li>
+                                            <li id="hidee">13) Bizstart</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -109,69 +114,73 @@ require_once('./mobile-nav.php')
                          
                             <div class="accrodion active">
                                 <div class="accrodion-title" style="color:white;background-color:black;">
-                                    <h4><b style="padding:5px;border-radius:3px;">Nationalized Bank</b></h4>
+                                    <h4 style="padding:10px;"><b style="border-radius:3px;">Nationalized Bank</b></h4>
                                 </div>
 
                                 <div class="accrodion-content">
                                     <div class="inner">
-                                        <ul>
-                                            <li id="hidee">12) UCO bank </li>
-                                            <li id="hidee">13) Canara Bank</li>
+                                        <ul style="padding:0px;">
+                                            <li id="hidee">14) UCO bank </li>
+                                            <li id="hidee">15) Canara Bank</li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
                             <div class="accrodion ">
                                 <div class="accrodion-title" style="color:white;background-color:black;">
-                                    <h4><b style="padding:5px;border-radius:3px;">Scheduled Bank</b></h4>
+                                    <h4 style="padding:10px;"><b style="border-radius:3px;">Scheduled Bank</b></h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
-                                        <ul>
-                                            <li id="hidee">14) HDFC Bank </li>
-                                            <li id="hidee">15) ICICI Bank</li>
-                                            <li id="hidee">16) Induslnd Bank</li>
-                                            <li id="hidee">17) South Indian Bank</li>
-                                            <li id="hidee">18) City Union Bank</li>
-                                            <li id="hidee">19) Lakshmi Vilas Bank</li>
-                                            <li id="hidee">20) Fincare Small Finance Bank Ltd , Erode</li>
-                                            <li id="hidee">21) Jana Small Finance Bank</li>
+                                        <ul style="padding:0px;">
+                                            <li id="hidee">16) HDFC Bank </li>
+                                            <li id="hidee">17) ICICI Bank</li>
+                                            <li id="hidee">18) Induslnd Bank</li>
+                                            <li id="hidee">19) South Indian Bank</li>
+                                            <li id="hidee">20) City Union Bank</li>
+                                            <li id="hidee">21) Lakshmi Vilas Bank</li>
+                                            <li id="hidee">22) Fincare Small Finance Bank Ltd , Erode</li>
+                                            <li id="hidee">23) Jana Small Finance Bank</li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title" style="color:white;background-color:black;">
-                                    <h4><b style="padding:5px;border-radius:3px;">Non Banking Financial Companies (NBFC)</b></h4>
+                                    <h4 style="padding:10px;" ><b style="border-radius:3px;">Non Banking Financial Companies (NBFC)</b></h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
                                         <div class="row">
                                             <div class="col-lg-6">
-                                                <ul>
-                                                    <li id="hidee">22) Shriram Group of Companies</li>
-                                                    <li id="hidee">23) Arbitrator in Shriram Group of Companies</li>
-                                                    <li id="hidee">24) PNB Housing Finance Ltd</li>
-                                                    <li id="hidee">25) Canfin Housing Finance Ltd</li>
-                                                    <li id="hidee">26) LIC Housing Finance Ltd</li>
-                                                    <li id="hidee">27) Indostar Home Finance Co., Ltd</li>                                                  
-                                                    <li id="hidee">28) Manappuram Home Finance Ltd</li>
-                                                    <li id="hidee">29) Aadhar Housing Finance Ltd</li>
-                                                    <li id="hidee">30) Fullerton India Credit Co., Ltd</li>
-                                                    <li id="hidee">31) Fullerton Home Finance Co., Ltd</li>
+                                                <ul style="padding:0px;">
+                                                    <li id="hidee">24) Shriram Group of Companies</li>
+                                                    <li id="hidee">25) Arbitrator in Shriram Group of Companies</li>
+                                                    <li id="hidee">26) PNB Housing Finance Ltd</li>
+                                                    <li id="hidee">27) Can Fin Homes Ltd</li>
+                                                    <li id="hidee">28) Repco Home Finance Ltd</li>
+                                                    <li id="hidee">29) LIC Housing Finance Ltd</li>
+                                                    <li id="hidee">30) Indostar Home Finance Co., Ltd</li>                                                  
+                                                    <li id="hidee">31) Manappuram Home Finance Ltd</li>
+                                                    <li id="hidee">32) Aadhar Housing Finance Ltd</li>
+                                                    <li id="hidee">33) Fullerton India Credit Co., Ltd</li>
+                                                    <li id="hidee">34) Fullerton Home Finance Co., Ltd</li>
                                                 </ul>
                                             </div>
                                             <div class="col-lg-6">
-                                                <ul>
-                                                    <li id="hidee">32) India Shelter Finance Corporation Ltd</li>
-                                                    <li id="hidee">33) Vastu housing Finance Corporation Ltd</li>
-                                                    <li id="hidee">34) Motilal Oswal Housing Finance Ltd</li>
-                                                    <li id="hidee">35) Svakarma Finance Ltd</li>
-                                                    <li id="hidee">36) Altum Credo Home Finance</li>
-                                                    <li id="hidee">37) Edelweiss Housing Finance Ltd</li>
-                                                    <li id="hidee">38) Diwan Housing Finance Co., Ltd</li>
-                                                    <li id="hidee">39) Magma Housing Finance Ltd</li>
-                                                    <li id="hidee">40) Mahindra Rural housing Finance Ltd</li>
+                                                <ul style="padding:0px;">
+                                                    <li id="hidee">35) India Shelter Finance Corporation Ltd</li>
+                                                    <li id="hidee">36) Vastu housing Finance Corporation Ltd</li>
+                                                    <li id="hidee">37) Motilal Oswal Housing Finance Ltd</li>
+                                                    <li id="hidee">38) Svakarma Finance Ltd</li>
+                                                    <li id="hidee">39) Altum Credo Home Finance</li>
+                                                    <li id="hidee">40) Edelweiss Housing Finance Ltd</li>
+                                                    <li id="hidee">41) Diwan Housing Finance Co., Ltd</li>
+                                                    <li id="hidee">42) Magma Housing Finance Ltd</li>
+                                                    <li id="hidee">43) Mahindra Rural housing Finance Ltd</li>
+                                                    <li id="hidee">44) Hinduja Housing Finance Ltd</li>
+                                                    <li id="hidee">45) Brick Eagle Affordable Housing Finance Ltd</li>
+                                                   
                                                 </ul>
                                             </div>
                                         </div>
@@ -182,14 +191,14 @@ require_once('./mobile-nav.php')
                             </div>
                             <div class="accrodion">
                                 <div class="accrodion-title" style="color:white;background-color:black;">
-                                    <h4><b style="padding:5px;border-radius:3px;">Chit Fund Companies</b></h4>
+                                    <h4 style="padding:10px;"><b style="border-radius:3px;">Chit Fund Companies</b></h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
-                                        <ul>
-                                            <li id="hidee">41) Sri Ram Chit Funds</li>
-                                            <li id="hidee">42) Jayapriya chit Funds</li>
-                                            <li id="hidee">43) Gokulam Chit & Finance Ltd</li>
+                                        <ul style="padding:0px;">
+                                            <li id="hidee">46) Sri Ram Chit Funds</li>
+                                            <li id="hidee">47) Jayapriya chit Funds</li>
+                                            <li id="hidee">48) Gokulam Chit & Finance Ltd</li>
                                         </ul>
                                     </div>
                                 </div>
