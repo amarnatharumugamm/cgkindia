@@ -483,7 +483,11 @@ require_once('./mobile-nav.php')
                 <li> Money Suit Cases</li>
                 <li> Real-estate properties services</li>
                 <li>MCOP cases (Road accident <span class="deed">cases)</span></li>
+<<<<<<< HEAD
                 <li> DRT <span class="deed">Cases </span> (Debt  Recovery<span class="deed"> Tribunal)</span> </li>
+=======
+                <li> DRT <span class="deed">Cases </span> (Debt Tribunal <span class="deed"> Recovery)</span> </li>
+>>>>>>> 9696b05f8c0575f926ad4b9b8dce840541afbdac
                 <li> ITAT Cases (Income Tax <span class="deed">Appellate Tribunal)</span> </li>
                 <li> EP Cases(Execution Petition)  </li>
 
