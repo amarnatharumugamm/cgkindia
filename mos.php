@@ -591,7 +591,7 @@ require_once('./mobile-nav.php')
         </p><!-- /.cta-one__phone -->
         
        <p class="cinfo"> Mail :   <a href="mailto:admin@cgkindia.legal">admin@cgkindia.legal</a> </p>
-           <p class="cinfo"> Contact Us : <a href="tel:9842722778">+91 9842722778</a>  </p>
+           <p class="cinfo" style="margin-top:-90px;"> Contact Us : <a href="tel:9842722778">+91 9842722778</a>  </p>
     
    
      

@@ -210,7 +210,7 @@ require_once('./mobile-nav.php')
         </div>
     </div>
 </section>
-<section class="cta-one my-1 cheight" >
+<section class="cta-one my-1 cheight " >
     <div class="container text-center" id="cont">
     <h3 class="cta-one__title">Need a Legal Solutions<br> Get an Appointment From our <br>CGK INDIA LAW FIRM </h3><!-- /.cta-one__title -->
     <p class="cta-one__phone">
@@ -219,7 +219,7 @@ require_once('./mobile-nav.php')
             <a href="tel:04244270772">0424-4270772</a>
         </p><!-- /.cta-one__phone -->
         <p class="cinfo"> Mail :   <a href="mailto:admin@cgkindia.legal">admin@cgkindia.legal</a> </p>
-           <p class="cinfo"> Contact Us : <a href="tel:9842722778">+91 9842722778</a>  </p>
+           <p class="cinfo" style="margin-top:-90px;"> Contact Us : <a href="tel:9842722778">+91 9842722778</a>  </p>
      
     </div><!-- /.container -->
 </section>

@@ -164,6 +164,7 @@ require_once('./header.php');
     }
     .deed{
         margin-left:22px;
+     
     }
 
     }
@@ -482,9 +483,9 @@ require_once('./mobile-nav.php')
                 <li>Legal Notice</li>
                 <li> Money Suit Cases</li>
                 <li> Real-estate properties services</li>
-                <li>MCOP cases (Road accident <span class="deed">cases)</span></li>
-                <li> DRT <span class="deed">Cases </span> (Debt  Recovery<span class="deed"> Tribunal)</span> </li>
-                <li> ITAT Cases (Income Tax <span class="deed">Appellate Tribunal)</span> </li>
+                <li>MCOP cases (Road accident cases)</li>
+                <li> DRT <span>Cases </span> (Debt  Recovery Tribunal) </li>
+                <li> ITAT Cases (Income Tax Appellate <span class="deed"> Tribunal)</span> </li>
                 <li> EP Cases(Execution Petition)  </li>
 
                 <li>Property Dispute Cases</li>
@@ -498,22 +499,21 @@ require_once('./mobile-nav.php')
                     All types of Deed Registrations and Documentations  </h4>
                 <div style="display:flex;" >
                     <div >
-                        <li> Simple <span class="markage">mortgage</span> <span class="deed">Deed</span> <span class="ml-4">Registration &</span> <span class="deed">Cancellation</span> </li>
-                        <li> MODT  Deed<br><span class="ml-4">Registration &</span> <span class="deed">Cancellation </span>  </li>
+                        <li> Simple <span >mortgage Deed</span> Registration & <span class="deed"> Cancellation</span> </li>
+                        <li> MODT  Deed<span class="ml-1">Registration &</span> <span class="deed">Cancellation </span>  </li>
                         
                         <li>Sale Deed </li>
-                        <li> Partnership <span class="deed">Deed</span> </li>
-                        <li> Power of <span class="deed">Attorney</span> <span class="deed">Deed</span></li>
+                        <li> Partnership Deed </li>
+                        <li> Power of Attorney Deed</li>
                         <li> Will Deed </li>
-                    </div>
-                     <div>
+                   
                              <li> Marriage Deed </li>
-                             <li>Sale agreement <span class="Registrations">Deed</span></li>
-                           <li> Settlement <span class="deed">Deed</span> </li>
+                             <li>Sale agreement Deed</li>
+                           <li> Settlement Deed </li>
                            <li>Exchange Deed</li>
-                        <li> Rectification <span class="deed">Deed</span> </li> 
-                            <li>Association <span class="deed">Deed</span></li>
-                        <li> Trust Deed & <span class="deed">Agency</span> <span class="ml-4">Agreement,etc…</span></li> </div>  </div>
+                        <li> Rectification Deed </li> 
+                            <li>Association Deed</li>
+                        <li> Trust Deed & Agency <span class="ml-1">Agreement,etc…</span></li> </div>  </div>
                         <br>
                         <div>
                         <h3 style="text-align:center;color:#B23427;">Revenue Records and Approvals</h3>
@@ -521,10 +521,10 @@ require_once('./mobile-nav.php')
                         <li>Individual Patta<br> <span class="ml-4">(Subdivision done by government <span class="deed"> survey
                             department)</span></span></li>
                         <li>Adangal</li>
-                        <li>DTCP Approval<br> <span class="ml-4">(Director of town & country <span class="deed">Planning Approval)</span></span></li>
-                        <li> Local Board approval for <span class="deed">construction</span></li>
-                        <li>  Plan Layout done by the <span class="deed">government surveyor</span></li>
-                        <li>  Land Layout Forming by <span class="deed">government surveyor</span> </li>
+                        <li>DTCP Approval<br> <span class="ml-4">(Director of town & country Planning <span class="deed"> Approval)</span></span></li>
+                        <li> Local Board approval for construction</li>
+                        <li>  Plan Layout done by the government <span class="deed"> surveyor</span></li>
+                        <li>  Land Layout Forming by  government    <span class="deed"> surveyor</span> </li>
                         <li> Building Plan Approval<br>
                         <span class="ml-4"> A) House, B) Commercial,C) <span class="deed">Industies</span></span>
                         </li>
