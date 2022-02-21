@@ -80,7 +80,7 @@ require_once('./mobile-nav.php')
         <div class="row no-gutters">
             <div class="col-xl-6">
                 <div class="about-two__content">
-                    <h3 class="about-two__title">Solving issues with <br> great attention.</h3><!-- /.about-two__title -->
+                    <h3 class="about-two__title">Solving issues with <br> great attention.</h3><!- /.about-two__title -->
                     <!-- <p class="about-two__text">Labore et dolore magna aliqu. Ut enim ad minim veniam, quis nostrud exercitation ullamco dui laboris nisi ut aliquip ex dea commodo consequat. Duis aute irure dolor reprehenderit kind voluptate velit ese cillum dolore fugiat nula pariatur. Excepteur sint occaecat cupidatas non.</p>/.about-two__text -->
                 <!-- </div>/.about-two__content -->
             <!-- </div>/.col-xl-5 -->
@@ -1161,7 +1161,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
             <div class="col-lg-3 col-md-6 col-sm-12 px-4 ">
                 <div class="team-one__single">
                     <div class="team-one__image">
-                        <img src="https://ik.imagekit.io/efvdt4rto0b/team/thirupurr_bEDhNUOmS.jpg?updatedAt=1632116220924.jpg" style="height:45vh;" alt="Awesome Image" />
+                        <img src="https://ik.imagekit.io/efvdt4rto0b/team/thirupurr_bEDhNUOmS.jpg?updatedAt=1632116220924.jpg"  width="300" height="305" alt="Awesome Image" />
                     </div><!-- /.team-one__image -->
                     <div class="team-one__content" style="padding-bottom:0px;">
                         <h3 class="team-one__name">Dhamodaran</h3><!-- /.team-one__name -->
@@ -1237,7 +1237,7 @@ Working here since - 2020 September 1. </span> </b></span></p>
             <div class="col-lg-3 col-md-6 col-sm-12 px-4 ">
                 <div class="team-one__single">
                     <div class="team-one__image">
-                        <img src="assets/images/lenin.jpeg" style="height:45vh;" alt="Awesome Image" />
+                        <img src="assets/images/lenin.jpeg" width="300" height="305" alt="Awesome Image" />
                     </div><!-- /.team-one__image -->
                     <div class="team-one__content" style="padding-bottom:0px;">
                         <h3 class="team-one__name"> P. Lenin </h3><!-- /.team-one__name -->

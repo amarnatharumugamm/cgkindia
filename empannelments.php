@@ -80,11 +80,7 @@ require_once('./mobile-nav.php')
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
-<<<<<<< HEAD
-                                        <ul style="padding:0px;">
-=======
-                                        <ul>
->>>>>>> 9696b05f8c0575f926ad4b9b8dce840541afbdac
+                                        <ul style="padding:0px">
                                             <li id="hidee">3) VR Promoters 
                                                  </li>
                                             <li id="hidee">4)  
@@ -102,11 +98,7 @@ require_once('./mobile-nav.php')
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
-<<<<<<< HEAD
-                                        <ul style="padding:0px;">
-=======
-                                        <ul>
->>>>>>> 9696b05f8c0575f926ad4b9b8dce840541afbdac
+                                        <ul style="padding:0px">
                                             <li id="hidee">6) Discount Soap (Shriram Bharath Chemical & Detergents (p) Ltd</li>
                                             <li id="hidee">7) Southern Printers PVT., Ltd</li>
                                             <li id="hidee">8) Texvalley,</li>
@@ -127,11 +119,7 @@ require_once('./mobile-nav.php')
 
                                 <div class="accrodion-content">
                                     <div class="inner">
-<<<<<<< HEAD
-                                        <ul style="padding:0px;">
-=======
-                                        <ul>
->>>>>>> 9696b05f8c0575f926ad4b9b8dce840541afbdac
+                                        <ul style="padding:0px">
                                             <li id="hidee">14) UCO bank </li>
                                             <li id="hidee">15) Canara Bank</li>
                                         </ul>
@@ -144,11 +132,7 @@ require_once('./mobile-nav.php')
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
-<<<<<<< HEAD
-                                        <ul style="padding:0px;">
-=======
-                                        <ul>
->>>>>>> 9696b05f8c0575f926ad4b9b8dce840541afbdac
+                                        <ul style="padding:0px">
                                             <li id="hidee">16) HDFC Bank </li>
                                             <li id="hidee">17) ICICI Bank</li>
                                             <li id="hidee">18) Induslnd Bank</li>
@@ -169,11 +153,7 @@ require_once('./mobile-nav.php')
                                     <div class="inner">
                                         <div class="row">
                                             <div class="col-lg-6">
-<<<<<<< HEAD
-                                                <ul style="padding:0px;">
-=======
-                                                <ul>
->>>>>>> 9696b05f8c0575f926ad4b9b8dce840541afbdac
+                                                <ul style="padding:0px">
                                                     <li id="hidee">24) Shriram Group of Companies</li>
                                                     <li id="hidee">25) Arbitrator in Shriram Group of Companies</li>
                                                     <li id="hidee">26) PNB Housing Finance Ltd</li>
@@ -188,11 +168,7 @@ require_once('./mobile-nav.php')
                                                 </ul>
                                             </div>
                                             <div class="col-lg-6">
-<<<<<<< HEAD
-                                                <ul style="padding:0px;">
-=======
-                                                <ul>
->>>>>>> 9696b05f8c0575f926ad4b9b8dce840541afbdac
+                                                <ul style="padding:0px">
                                                     <li id="hidee">35) India Shelter Finance Corporation Ltd</li>
                                                     <li id="hidee">36) Vastu housing Finance Corporation Ltd</li>
                                                     <li id="hidee">37) Motilal Oswal Housing Finance Ltd</li>
@@ -219,11 +195,7 @@ require_once('./mobile-nav.php')
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
-<<<<<<< HEAD
-                                        <ul style="padding:0px;">
-=======
-                                        <ul>
->>>>>>> 9696b05f8c0575f926ad4b9b8dce840541afbdac
+                                        <ul style="padding:0px">
                                             <li id="hidee">46) Sri Ram Chit Funds</li>
                                             <li id="hidee">47) Jayapriya chit Funds</li>
                                             <li id="hidee">48) Gokulam Chit & Finance Ltd</li>
