@@ -526,7 +526,7 @@ require_once('./mobile-nav.php')
                         <li>  Plan Layout done by the government <span class="deed"> surveyor</span></li>
                         <li>  Land Layout Forming by  government    <span class="deed"> surveyor</span> </li>
                         <li> Building Plan Approval<br>
-                        <span class="ml-4"> A) House, B) Commercial,C) <span class="deed">Industies</span></span>
+                        <span class="ml-4"> A) House, B) Commercial,C) Industies</span>
                         </li>
                         <li> Trademark Registration </li>
                         <li> ISO Certificate </li>
